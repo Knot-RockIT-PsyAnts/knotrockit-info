@@ -2,6 +2,7 @@
 title: Sam Wilson
 email: samwilson@email.com
 image: "/images/avatar.png"
+draft: false
 description: this is meta description
 social:
   - name: github
