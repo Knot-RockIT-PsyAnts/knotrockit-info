@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate-multilang.netlify.app",
+    "title": "Knot RockIT PsyAnts",
+    "base_url": "https://knotrockit.org",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
-    "logo_text": "Astroplate"
+    "favicon": "/images/Knot_RockIT_PsyAnts_Icon.svg",
+    "logo": "/images/Knot_RockIT_PsyAnts_Logo_Black.png",
+    "logo_darkmode": "/images/Knot_RockIT_PsyAnts_Logo_White.png",
+    "logo_width": "410",
+    "logo_height": "37",
+    "logo_text": "Knot RockIT PsyAnts Logo"
   },
 
   "settings": {
@@ -20,23 +20,23 @@
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog",
-    "default_language": "en",
-    "disable_languages": [],
+    "default_language": "de",
+    "disable_languages": ["fr"],
     "default_language_in_subdir": false
   },
 
   "announcement": {
-    "enable": true,
+    "enable": false,
     "expire_days": 7
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2026 Knot RockIT PsyAnts"
   },
 
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Github",
     "link": "https://github.com/zeon-studio/astroplate/tree/multilingual"
   },
@@ -47,15 +47,15 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_author": "Knot RockIT PsyAnts",
+    "meta_image": "/images/Knot_RockIT_PsyAnts_Sustainable_Design.png",
+    "meta_description": "Digital innovation for a fairer, sustainable society. We are Knot RockIT PsyAnts. We develop ethically grounded, human-centered digital solutions for the major challenges of our time."
   },
 
   "llms": {

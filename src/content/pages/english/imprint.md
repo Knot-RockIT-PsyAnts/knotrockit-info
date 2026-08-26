@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Imprint"
 meta_title: ""
 description: ""
 image: ""

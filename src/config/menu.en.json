@@ -1,24 +1,28 @@
 {
   "main": [
     { "name": "Home", "url": "/" },
-    { "name": "About", "url": "/about" },
-    { "name": "Elements", "url": "/elements" },
     {
-      "name": "Pages",
+      "name": "About us",
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Contact", "url": "/contact" },
-        { "name": "Blog", "url": "/blog" },
-        { "name": "Authors", "url": "/authors" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" },
-        { "name": "404 Page", "url": "/404" }
+        { "name": "Who we are", "url": "/whoweare" },
+        { "name": "What we create", "url": "/whatwecreate" },
+        { "name": "Values and Vision", "url": "/valuesandvision" }
+      ]
+    },
+    {
+      "name": "Key areas",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Projects", "url": "/categories/projects" },
+        { "name": "Information material", "url": "/categories/infomaterial" },
+        { "name": "Research", "url": "/categories/research" }
       ]
     }
   ],
   "footer": [
-    { "name": "Elements", "url": "/elements" },
-    { "name": "Privacy Policy", "url": "/privacy-policy" }
+    { "name": "Imprint", "url": "/imprint" }
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Autoren"
 meta_title: ""
 description: ""
 image: ""

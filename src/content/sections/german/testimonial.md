@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Users Are Saying"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying."
+title: "Was Nutzer sagen"
+description: "Verlassen Sie sich nicht nur auf unser Wort – hören Sie, was einige unserer zufriedenen Nutzer zu sagen haben! Lesen Sie unten einige unserer Kundenstimmen, um zu erfahren, was andere sagen."
 
 # Testimonials
 testimonials:

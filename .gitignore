@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # skills
 .agents/skills/skill-creator
+
+#JetBrains WebStorm
+.idea/

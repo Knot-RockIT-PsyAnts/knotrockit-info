@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Über uns"
 meta_title: ""
 description: ""
 image: ""

@@ -1,51 +1,66 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
-  image: "/images/banner.png"
+  title: "Digital innovation for a fairer, sustainable society"
+  content: "We are Knot RockIT PsyAnts. We develop ethically grounded, human-centered digital solutions for the major challenges of our time. In dialogue with the scientific community, we create foundations for a digital future that is open to everyone — transparent, inclusive, and oriented toward the common good."
+  image: "/images/Knot_RockIT_PsyAnts_Icon.svg"
   button:
-    enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/tree/multilingual"
+    enable: false
+    label: ""
+    link: ""
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
-    image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+  - title: "What we create"
+    image: "/images/Knot_RockIT_PsyAnts_What_we_do.png"
+    content: "We build **digital systems that strengthen human connections — rather than monetizing them.**"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Money as a means of solidarity** — not as a measure of value. *Decide together where it flows — anonymous, fair, continuous.*"
+      - "**Appreciation without money**—as a visible gesture that remains. *A sign that doesn’t expire — but connects.*"
+      - "**Local communities** — through real presence, not algorithms. *Where you are, you belong — not just a user.*"
+      - "**Research built on trust** — anonymous, open, collaborative. *Data that creates knowledge — not profits.*"
+      - "**The environment as a shared responsibility** — gamified, visible, participatory. *Everyone can make a difference — from home.*"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Astro"
-    image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Ethical Design"
+    image: "/images/Knot_RockIT_PsyAnts_Ethical_Design.png"
+    content: "Technology you can trust — *because it is fair, transparent, and protective.*"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Transparency & fairness**: Every decision, every data process, every financial flow is openly visible."
+      - "**Privacy by design**: We store only what’s necessary — and protect it with state-of-the-art standards."
+      - "**Consumer protection**: We actively stand up for your rights — no hidden conditions, no data monetization."
+      - "**Information & education**: We explain how it works — so you can make informed decisions."
+      - "**Cooperation & community**: We build bridges between research, practice, and users — for shared solutions."
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      enable: false
+      label: ""
+      link: ""
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Accessible Design"
+    image: "/images/Knot_RockIT_PsyAnts_Accessible_Design.png"
+    content: "*Technology that is for everyone — regardless of abilities, background, or location.*"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Accessibility**: Our services are accessible to everyone — physically, cognitively, and linguistically."
+      - "**Inclusive tools**: Every user, every group, every community can participate — without exclusion."
+      - "**Non-profit orientation**: We don’t work for profit — but for social value."
+      - "**Social responsibility**: We take responsibility — for fairness and participation."
+    button:
+      enable: false
+      label: ""
+      link: ""
+
+  - title: "Sustainable Design"
+    image: "/images/Knot_RockIT_PsyAnts_Sustainable_Design.png"
+    content: "*Technology that creates a future — rather than consuming it.*"
+    bulletpoints:
+      - "**Sustainability**: We minimize our ecological footprint — through energy-efficient systems and data minimization."
+      - "**Energy efficiency**: Our services operate with low consumption — and use renewable energy."
+      - "**Data minimization**: We collect only what is needed — and delete what becomes unnecessary."
+      - "**Research & innovation**: We develop continuously — to create better ethical and sustainable solutions."
+      - "**Independence & autonomy**: We are financially independent — and give you maximum control over your data and your participation."
     button:
       enable: false
       label: ""

@@ -1,0 +1,28 @@
+{
+  "main": [
+    { "name": "Home", "url": "/" },
+    {
+      "name": "Über uns",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Wer wir sind", "url": "/whoweare" },
+        { "name": "Was wir schaffen", "url": "/whatwecreate" },
+        { "name": "Werte und Vision", "url": "/valuesandvision" }
+      ]
+    },
+    {
+      "name": "Schwerpunkte",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Projekte", "url": "/categories/projects" },
+        { "name": "Infomaterial", "url": "/categories/infomaterial" },
+        { "name": "Forschung", "url": "/categories/research" }
+      ]
+    }
+  ],
+  "footer": [
+    { "name": "Impressum", "url": "/imprint" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "full_name": "Vollständiger Name",
+  "full_name_placeholder": "Geben Sie Ihren vollständigen Namen ein",
+  "mail_placeholder": "john.doe@email.com",
+  "message": "Sonst noch etwas?",
+  "message_placeholder": "Ihre Nachricht hier...",
+  "submit": "Absenden",
+  "read_more": "Weiterlesen",
+  "page_not_found": "Seite nicht gefunden",
+  "working_mail": "Arbeits-E-Mail",
+  "anything_else": "Sonst noch etwas?",
+  "contact_message_placeholder": "Ihre Nachricht hier...",
+  "page_not_found_content": "Die gesuchte Seite wurde möglicherweise entfernt, umbenannt oder ist vorübergehend nicht verfügbar.",
+  "back_to_home": "Zurück zur Startseite",
+  "get_started": "Loslegen",
+  "announcement": "<span class='text-center block'>Under Construction</span>"
+}

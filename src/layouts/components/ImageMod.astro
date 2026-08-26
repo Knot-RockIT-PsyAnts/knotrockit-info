@@ -30,34 +30,56 @@ let {
   fit,
 } = Astro.props;
 
-src = `/public${src}`;
+const isSvg = format === "svg" || src.toLowerCase().endsWith(".svg");
+
+// SVGs are located in /public/images/... and should be delivered directly.
+// We expect “src” to already be a public URL, e.g., “/images/knot_logo.svg.”
+const publicSrc = src;
+
+// For raster images, we continue to use astro:assets (import via glob).
+const srcInPublicForGlob = `/public${src}`;
 
 // Glob pattern to load images from the /public/images folder
-const images = import.meta.glob("/public/images/**/*.{jpeg,jpg,png,gif}");
+const images = import.meta.glob(
+  "/public/images/**/*.{jpeg,jpg,png,gif,webp,avif}",
+);
 
-// Check if the source path is valid
-const isValidPath = images[src] ? true : false;
+// Check if the source path is valid (only relevant for raster images)
+const isValidPath = isSvg ? true : !!images[srcInPublicForGlob];
 
 // Log a warning message in red if the image is not found
 !isValidPath &&
   console.error(
-    `\x1b[31mImage not found - ${src}.\x1b[0m Make sure the image is in the /public/images folder.`,
+    `\x1b[31mImage not found - ${srcInPublicForGlob}.\x1b[0m Make sure the image is in the /public/images folder.`,
   );
 ---
 
 {
-  isValidPath && (
-    <Image
-      src={images[src]() as Promise<{ default: ImageMetadata }>}
+  isSvg ? (
+    <img
+      src={publicSrc}
       alt={alt}
       width={width}
       height={height}
-      loading={loading}
-      fit={fit ? fit : "contain"}
-      decoding={decoding}
+      loading={loading ?? undefined}
+      decoding={decoding ?? undefined}
       class={className}
-      format={format}
       style={style}
     />
+  ) : (
+    isValidPath && (
+      <Image
+        src={images[srcInPublicForGlob]() as Promise<{ default: ImageMetadata }>}
+        alt={alt}
+        width={width}
+        height={height}
+        loading={loading}
+        fit={fit ? fit : "contain"}
+        decoding={decoding}
+        class={className}
+        format={format}
+        style={style}
+      />
+    )
   )
 }

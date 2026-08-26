@@ -39,13 +39,27 @@ const call_to_action = await getSinglePage(
   <section class="section pt-14">
     <div class="container">
       <div class="row justify-center">
-        <div class="lg:col-7 md:col-9 mb-8 text-center">
+        {
+          banner.image && (
+            <div class="col-12 mb-10">
+              <ImageMod
+                src={banner.image}
+                height={260}
+                width={267}
+                alt="Knot RockIT PsyAnts Icon"
+                format="svg"
+                class="m-auto"
+              />
+            </div>
+          )
+        }
+        <div class="lg:col-7 md:col-9 mb-0 text-center">
           <h1
             set:html={markdownify(banner.title)}
-            class="mb-4 text-h3 lg:text-h1"
+            class="mb-6 text-h3 lg:text-h1"
           />
-          <p set:html={markdownify(banner.content)} class="mb-8" />
-          {
+          <p set:html={markdownify(banner.content)} class="mb-0" />
+          <!-- {
             banner.button.enable && (
               <a
                 class="btn btn-primary"
@@ -58,21 +72,8 @@ const call_to_action = await getSinglePage(
                 {banner.button.label}
               </a>
             )
-          }
+          }-->
         </div>
-        {
-          banner.image && (
-            <div class="col-12">
-              <ImageMod
-                src={banner.image}
-                height={380}
-                width={1200}
-                alt="banner"
-                format="webp"
-              />
-            </div>
-          )
-        }
       </div>
     </div>
   </section>
@@ -93,6 +94,7 @@ const call_to_action = await getSinglePage(
                 width={520}
                 alt={feature.title}
                 format="webp"
+                class="m-auto"
               />
             </div>
             <div class={`md:col-7 lg:col-6 ${index % 2 !== 0 && "md:order-1"}`}>
@@ -119,6 +121,6 @@ const call_to_action = await getSinglePage(
   }
   <!-- /Features -->
 
-  <Testimonial testimonial={testimonial[0]} />
+  <!--<Testimonial testimonial={testimonial[0]} />-->
   <CallToAction call_to_action={call_to_action[0]} />
 </Base>

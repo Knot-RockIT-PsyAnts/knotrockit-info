@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Impressum"
 meta_title: ""
 description: ""
 image: ""
