@@ -30,7 +30,11 @@ if (menu) {
           {
             footer.map((menu: any) => (
               <li class="m-3 inline-block">
-                <a href={slugSelector(menu.url, lang)}>{menu.name}</a>
+                {menu.url.startsWith("mailto:") ? (
+                  <a href={menu.url}>{menu.name}</a>
+                ) : (
+                  <a href={slugSelector(menu.url, lang)}>{menu.name}</a>
+                )}
               </li>
             ))
           }

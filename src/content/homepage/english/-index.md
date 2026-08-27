@@ -21,9 +21,9 @@ features:
       - "**Research built on trust** — anonymous, open, collaborative. *Data that creates knowledge — not profits.*"
       - "**The environment as a shared responsibility** — gamified, visible, participatory. *Everyone can make a difference — from home.*"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Read more"
+      link: "/whatwecreate"
 
   - title: "Ethical Design"
     image: "/images/Knot_RockIT_PsyAnts_Ethical_Design.png"
@@ -35,9 +35,9 @@ features:
       - "**Information & education**: We explain how it works — so you can make informed decisions."
       - "**Cooperation & community**: We build bridges between research, practice, and users — for shared solutions."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Read more"
+      link: "/valuesandvision"
 
   - title: "Accessible Design"
     image: "/images/Knot_RockIT_PsyAnts_Accessible_Design.png"

@@ -21,9 +21,9 @@ features:
       - "**Forschung, die vertraut** — anonym, offen, gemeinsam. *Daten, die Wissen schaffen — nicht Profite.*"
       - "**Umwelt als gemeinsame Aufgabe** — gamifiziert, sichtbar, mitwirkend. *Jeder kann etwas bewegen — von zu Hause aus.*"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Mehr hierzu"
+      link: "/whatwecreate"
       
   - title: "Ethical Design"
     image: "/images/Knot_RockIT_PsyAnts_Ethical_Design.png"
@@ -35,9 +35,9 @@ features:
      - "**Aufklärung & Bildung**: Wir erklären dir, wie es funktioniert — damit du informiert entscheidest."
      - "**Kooperation & Gemeinschaft**: Wir bauen Brücken zwischen Forschung, Praxis und Nutzern — für gemeinsame Lösungen."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Mehr hierzu"
+      link: "/valuesandvision"
 
   - title: "Accessible Design"
     image: "/images/Knot_RockIT_PsyAnts_Accessible_Design.png"

@@ -6,7 +6,7 @@
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Who we are", "url": "/whoweare" },
+        { "name": "Who we are", "url": "/about" },
         { "name": "What we create", "url": "/whatwecreate" },
         { "name": "Values and Vision", "url": "/valuesandvision" }
       ]
@@ -23,6 +23,7 @@
     }
   ],
   "footer": [
+    { "name": "Contact", "url": "mailto:contact@knotrockit.org" },
     { "name": "Imprint", "url": "/imprint" }
   ]
 }
