@@ -30,7 +30,7 @@ features:
       - "**Forschung, die vertraut** - anonym, offen, gemeinsam. *Daten, die
         Wissen schaffen, nicht Profite.*"
       - "**Umwelt als gemeinsame Aufgabe** - gamifiziert, sichtbar, mitwirkend.
-        *Jeder kann etwas bewegen - von zu Hause aus.*"
+        *Jeder kann etwas bewegen, von zu Hause aus.*"
     button:
       enable: true
       label: Mehr hierzu
@@ -48,7 +48,7 @@ features:
       - "**Aufklärung & Bildung**: Wir erklären dir, wie es funktioniert, damit
         du informiert entscheidest."
       - "**Kooperation & Gemeinschaft**: Wir bauen Brücken zwischen Forschung,
-        Praxis und Nutzern - für gemeinsame Lösungen."
+        Praxis und Nutzern, für gemeinsame Lösungen."
     button:
       enable: true
       label: Mehr hierzu
