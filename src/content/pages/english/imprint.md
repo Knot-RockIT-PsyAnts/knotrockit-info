@@ -7,8 +7,7 @@ draft: false
 ---
 **Imprint - knotrockit.org**
 
-**Responsible for the content:**
-
+**Responsible for the content:**\
 Knot RockIT PsyAnts gGmbH\
 Neue Mainzer Straße 84\
 60311 Frankfurt am Main\
