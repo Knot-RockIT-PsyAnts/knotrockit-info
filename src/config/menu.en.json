@@ -1,26 +1,5 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
-    {
-      "name": "About us",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        { "name": "Who we are", "url": "/about" },
-        { "name": "What we create", "url": "/whatwecreate" },
-        { "name": "Values and Vision", "url": "/valuesandvision" }
-      ]
-    },
-    {
-      "name": "Key areas",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        { "name": "Projects", "url": "/categories/projects" },
-        { "name": "Information material", "url": "/categories/infomaterial" },
-        { "name": "Research", "url": "/categories/research" }
-      ]
-    }
   ],
   "footer": [
     { "name": "Contact", "url": "mailto:contact@knotrockit.org" },
