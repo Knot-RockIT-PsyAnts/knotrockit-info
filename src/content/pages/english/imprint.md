@@ -1,7 +1,7 @@
 ---
 title: "Imprint"
-meta_title: ""
-description: ""
+meta_title: "Knot RockIT PsyAnts - Imprint"
+description: "Responsible for the content, Privacy & Technical Transparency, AI-Generated Content & Transparency, Disclaimer"
 image: ""
 draft: false
 ---

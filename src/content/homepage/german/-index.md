@@ -1,4 +1,8 @@
 ---
+title: "Knot RockIT PsyAnts"
+meta_title: "Knot RockIT PsyAnts"
+description: "Digitale Innovation für eine gerechtere, nachhaltige Gesellschaft. Wir sind Knot RockIT PsyAnts. Wir entwickeln ethisch fundierte, menschenzentrierte digitale Lösungen für die großen Herausforderungen unserer Zeit."
+---
 # Banner
 banner:
   title: Digitale Innovation für eine gerechtere, nachhaltige Gesellschaft
