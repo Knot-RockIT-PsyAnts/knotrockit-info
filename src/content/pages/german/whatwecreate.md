@@ -50,3 +50,5 @@ Daher braucht es umfassende Aufklärung und digitale Bildung, um Machtkonzentrat
 ![](/images/trenner2.webp)
 
 Als Ergebnis aller Maßnahmen sehen wir neue Formen des digitalen Zusammenlebens: Plattformen, die auf Solidarität statt auf Konkurrenz setzen, Geschäftsmodelle, die Nachhaltigkeit, statt kurzfristigen Profit, fördern, und digitale Räume, die auf Transparenz, Teilhabe und Respekt vor der Privatsphäre beruhen. Nur wenn solche Alternativen gefördert, genutzt und weiterentwickelt werden, besteht die Chance auf eine digitale Zukunft, die nicht nur effizient, sondern auch gerecht, inklusiv und wirklich menschenwürdig ist.
+
+​
