@@ -2,7 +2,7 @@
 title: "Was wir schaffen"
 meta_title: ""
 description: ""
-image: ""
+image: "header_generic.webp"
 draft: false
 ---
 ![](/images/bp_img_overview_problem.png)
@@ -16,8 +16,6 @@ Diese Informationen werden häufig zur gezielten Werbung verwendet oder an Dritt
 Diese Entwicklungen untergraben demokratische Prozesse, fördern soziale Ungleichheiten und schwächen die informationelle Selbstbestimmung der Menschen. Dies führt nicht zuletzt auch zu einer massiven Erosion des Gemeinschaftsgefühls und der Völkerverständigung. Die problematische Verflechtung von kommerziellen Interessen, intransparenten Algorithmen und mangelnder Regulierung stellt eine der zentralen Herausforderungen im Umgang mit digitalen Diensten dar.
 
 Ein weiteres erhebliches Problem dabei ist, dass der Mensch zunehmend aus dem Fokus technologischer Entwicklungen gerät. Digitale Dienste werden heute vor allem im Interesse wirtschaftlicher Effizienz und Profitmaximierung gestaltet, nicht im Sinne des Wohls oder der Selbstbestimmung der Nutzer:innen. Anstatt Technologien auf die tatsächlichen Bedürfnisse, Werte und Rechte der Menschen auszurichten, stehen oft Datenverwertbarkeit, Klickzahlen und Verweildauer im Vordergrund. Algorithmen optimieren Inhalte auf maximale Aufmerksamkeit und Interaktion - nicht auf Aufklärung, Bildung oder gesellschaftlichen Mehrwert. Die Nutzer:innen werden so zu bloßen Datenlieferant:innen und Zielscheiben algorithmisch gesteuerter Werbestrategien degradiert. Der eigentliche Sinn von Technologie, dem Menschen zu dienen und das Leben zu verbessern, tritt zunehmend in den Hintergrund. Dadurch entsteht eine technologische Entwicklung, die sich vom Menschen entfremdet, anstatt ihn zu stärken.
-
-​
 
 ![](/images/bp_img_overview_solutions.png)
 
