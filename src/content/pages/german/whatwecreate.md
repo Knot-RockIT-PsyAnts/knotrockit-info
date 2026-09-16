@@ -2,7 +2,7 @@
 title: "Was wir schaffen"
 meta_title: ""
 description: ""
-image: "header_generic.webp"
+image: "/images/Knot_RockIT_PsyAnts_What_we_do.png"
 draft: false
 ---
 ![](/images/bp_img_overview_problem.png)
