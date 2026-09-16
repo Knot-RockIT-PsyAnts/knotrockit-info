@@ -17,6 +17,8 @@ Diese Entwicklungen untergraben demokratische Prozesse, fördern soziale Ungleic
 
 Ein weiteres erhebliches Problem dabei ist, dass der Mensch zunehmend aus dem Fokus technologischer Entwicklungen gerät. Digitale Dienste werden heute vor allem im Interesse wirtschaftlicher Effizienz und Profitmaximierung gestaltet, nicht im Sinne des Wohls oder der Selbstbestimmung der Nutzer:innen. Anstatt Technologien auf die tatsächlichen Bedürfnisse, Werte und Rechte der Menschen auszurichten, stehen oft Datenverwertbarkeit, Klickzahlen und Verweildauer im Vordergrund. Algorithmen optimieren Inhalte auf maximale Aufmerksamkeit und Interaktion - nicht auf Aufklärung, Bildung oder gesellschaftlichen Mehrwert. Die Nutzer:innen werden so zu bloßen Datenlieferant:innen und Zielscheiben algorithmisch gesteuerter Werbestrategien degradiert. Der eigentliche Sinn von Technologie, dem Menschen zu dienen und das Leben zu verbessern, tritt zunehmend in den Hintergrund. Dadurch entsteht eine technologische Entwicklung, die sich vom Menschen entfremdet, anstatt ihn zu stärken.
 
+​
+
 ![](/images/bp_img_overview_solutions.png)
 
 ## Lösungsansatz
