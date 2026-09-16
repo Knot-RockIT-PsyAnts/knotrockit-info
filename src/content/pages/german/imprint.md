@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
-meta_title: ""
-description: ""
+meta_title: "Knot RockIT PsyAnts - Impressum"
+description: "Verantwortlich für den Inhalt, Datenschutz & Technische Transparenz, KI-generierte Inhalte & Transparenz, Haftungsausschluss"
 image: ""
 draft: false
 ---
