@@ -29,9 +29,9 @@ Ein weiteres erhebliches Problem dabei ist, dass der Mensch zunehmend aus dem Fo
 
 ## Lösungsansatz
 
-> ​
->
-> „Wer sagt denn, dass sich das Internet nicht eines Tages doch noch etabliert.“
+​
+
+> Wer sagt denn, dass sich das Internet nicht eines Tages doch noch etabliert.
 
 Es ist von großer Bedeutung, sich diesen Entwicklungen aktiv zu stellen und nach alternativen, menschenzentrierten Lösungen zu streben. Eine Gesellschaft, die digitale Technologien unreflektiert akzeptiert, riskiert den Verlust grundlegender Werte wie Privatsphäre, Selbstbestimmung und sozialer Gerechtigkeit. Um dieser Tendenz entgegenzuwirken, braucht es unter anderem die Förderung ethischer Technologien, die nicht primär auf Gewinn, sondern auf Gemeinwohl ausgerichtet sind.
 
