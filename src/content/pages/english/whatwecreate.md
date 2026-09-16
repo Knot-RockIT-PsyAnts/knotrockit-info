@@ -1,7 +1,7 @@
 ---
 title: "What we create"
-meta_title: ""
-description: ""
+meta_title: "Knot RockIT PsyAnts - What we create"
+description: "We work on new forms of digital coexistence: platforms that prioritize solidarity over competition, business models that promote sustainability rather than short-term profit, and digital spaces based on transparency, participation and respect for privacy."
 image: ""
 draft: false
 ---
