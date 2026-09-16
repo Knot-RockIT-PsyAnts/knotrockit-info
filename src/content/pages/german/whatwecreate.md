@@ -25,13 +25,9 @@ Anstatt Technologien auf die tatsächlichen Bedürfnisse, Werte und Rechte der M
 
 Der eigentliche Sinn von Technologie, dem Menschen zu dienen und das Leben zu verbessern, tritt zunehmend in den Hintergrund. Dadurch entsteht eine technologische Entwicklung, die sich vom Menschen entfremdet, anstatt ihn zu stärken.
 
-​
-
 ![](/images/bp_img_overview_solutions.png)
 
 ## Lösungsansatz
-
-​
 
 > Wer sagt denn, dass sich das Internet nicht eines Tages doch noch etabliert.
 
@@ -50,5 +46,3 @@ Daher braucht es umfassende Aufklärung und digitale Bildung, um Machtkonzentrat
 Wir sehen uns in der Verantwortung diese Interessen kritisch zu hinterfragen und die Verflechtung von Technologie und Träger neu zu gestalten. Daher betreiben wir aktiv Aufklärung zum Thema Daten- und Anwenderschutz und Bildungsarbeit zum Thema „digitale Zukunft“. Wir haben uns weiterhin der Förderung von Wissenschaft, Toleranz, gesellschaftlicher Teilhabe und der Völkerverständigung verschrieben.
 
 Als Ergebnis aller Maßnahmen sehen wir neue Formen des digitalen Zusammenlebens: Plattformen, die auf Solidarität statt auf Konkurrenz setzen, Geschäftsmodelle, die Nachhaltigkeit, statt kurzfristigen Profit, fördern, und digitale Räume, die auf Transparenz, Teilhabe und Respekt vor der Privatsphäre beruhen. Nur wenn solche Alternativen gefördert, genutzt und weiterentwickelt werden, besteht die Chance auf eine digitale Zukunft, die nicht nur effizient, sondern auch gerecht, inklusiv und wirklich menschenwürdig ist.
-
-​
