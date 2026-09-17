@@ -13,5 +13,7 @@
   "page_not_found_content": "Die gesuchte Seite wurde möglicherweise entfernt, umbenannt oder ist vorübergehend nicht verfügbar.",
   "back_to_home": "Zurück zur Startseite",
   "get_started": "Loslegen",
-  "announcement": "<span class='text-center block'>Under Construction</span>"
+  "announcement": "<span class='text-center block'>Under Construction</span>",
+  "categories": "Kategorien",
+  "projects": "Projekte"
 }

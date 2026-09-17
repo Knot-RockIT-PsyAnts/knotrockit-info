@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "All Articles"
 meta_title: ""
 description: ""
 image: ""

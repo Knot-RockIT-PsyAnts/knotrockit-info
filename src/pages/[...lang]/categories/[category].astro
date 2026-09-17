@@ -4,7 +4,7 @@ import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { getTaxonomy } from "@/lib/taxonomyParser.astro";
-import { supportedLang } from "@/lib/utils/languageParser";
+import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import PageHeader from "@/partials/PageHeader.astro";
@@ -58,10 +58,13 @@ const BLOG_FOLDER = "blog";
 const posts = await getSinglePage(BLOG_FOLDER, lang);
 const filterByCategories = taxonomyFilter(posts, "categories", category!);
 const sortedPosts = sortByDate(filterByCategories);
+
+const translations = await getTranslations(lang!);
+const categoryTitle = translations[category];
 ---
 
-<Base title={category}>
-  <PageHeader title={category} />
+<Base title={categoryTitle}>
+  <PageHeader title={categoryTitle} />
   <div class="section-sm pb-0">
     <div class="container">
       <div class="row">

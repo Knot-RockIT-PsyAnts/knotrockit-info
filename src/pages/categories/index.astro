@@ -1,17 +1,20 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
+import { getLangFromUrl, getTranslations } from "@/lib/utils/languageParser";
 import { humanize } from "@/lib/utils/textConverter";
 import PageHeader from "@/partials/PageHeader.astro";
 
 const BLOG_FOLDER = "blog";
 
+const lang = getLangFromUrl(Astro.url);
+const translations = await getTranslations(lang);
 const categories = await getTaxonomy(BLOG_FOLDER, "categories");
 const allCategories = await getAllTaxonomy(BLOG_FOLDER, "categories");
 ---
 
-<Base title={"Categories"}>
-  <PageHeader title={"Categories"} />
+<Base title={translations["categories"]}>
+  <PageHeader title={translations["categories"]} />
   <section class="section">
     <div class="container text-center">
       <ul>
@@ -24,7 +27,7 @@ const allCategories = await getAllTaxonomy(BLOG_FOLDER, "categories");
                   href={`/categories/${category}`}
                   class="block rounded bg-light px-4 py-2 text-xl text-text-text-dark dark:bg-darkmode-light dark:text-darkmode-text-text-dark"
                 >
-                  {humanize(category)}{" "}
+                  {translations[category]}{" "}
                   <span class="ml-2 rounded bg-body px-2 dark:bg-darkmode-body">
                     {count}
                   </span>

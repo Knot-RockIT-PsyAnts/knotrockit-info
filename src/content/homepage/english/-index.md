@@ -1,8 +1,4 @@
 ---
-title: "Knot RockIT PsyAnts"
-meta_title: "Knot RockIT PsyAnts"
-description: "Digital innovation for a fairer, sustainable society. We are Knot RockIT PsyAnts. We develop ethically grounded, human-centered digital solutions for the major challenges of our time."
----
 # Banner
 banner:
   title: Digital innovation for a fairer, sustainable society
@@ -54,7 +50,7 @@ features:
       - "**Cooperation & community**: We build bridges between research,
         practice, and users, for shared solutions."
     button:
-      enable: true
+      enable: false
       label: Read more
       link: /valuesandvision
   - title: Accessible Design
