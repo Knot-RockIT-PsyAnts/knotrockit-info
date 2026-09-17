@@ -5,7 +5,7 @@ import config from "@/config/config.json";
 import Disqus from "@/helpers/Disqus";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
-import { slugSelector } from "@/lib/utils/languageParser";
+import { slugSelector, getTranslations } from "@/lib/utils/languageParser";
 import similarItems from "@/lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import { render } from "astro:content";
@@ -28,6 +28,7 @@ const posts = await getSinglePage(
 const similarPosts = similarItems(post, posts);
 const { Content } = await render(post);
 const { title, description, author, categories, image, date, tags } = post.data;
+const translations = await getTranslations(lang);
 ---
 
 <section class="section pt-7">
@@ -49,13 +50,13 @@ const { title, description, author, categories, image, date, tags } = post.data;
           )
         }
         <h1 set:html={markdownify(title)} class="h2 mb-4" />
-       <!-- <ul class="mb-4">
-          <li class="mr-4 inline-block">
+        <ul class="mb-4">
+         <!--  <li class="mr-4 inline-block">
             <a href={slugSelector(`/authors/${slugify(author)}`, lang)}>
               <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
               {humanize(author)}
             </a>
-          </li>
+          </li> -->
           <li class="mr-4 inline-block">
             <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
             {
@@ -63,21 +64,21 @@ const { title, description, author, categories, image, date, tags } = post.data;
                 <a
                   href={slugSelector(`/categories/${slugify(category)}`, lang)}
                 >
-                  {humanize(category)}
+                  {translations[category.toLowerCase()]}
                   {index !== categories.length - 1 && ","}
                 </a>
               ))
             }
           </li>
-          <li class="mr-4 inline-block">
+          <!-- <li class="mr-4 inline-block">
             <FaRegClock className={"mr-2 -mt-1 inline-block"} />
             {dateFormat(date)}
-          </li>
-        </ul>-->
+          </li> -->
+        </ul>
         <div class="content mb-10">
           <Content />
         </div>
-       <!-- <div class="row items-start justify-between">
+        <!-- <div class="row items-start justify-between">
           <div class="mb-10 flex items-center lg:col-5 lg:mb-0">
             <h5 class="mr-3">Tags :</h5>
             <ul>
@@ -110,7 +111,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
     </div>
 
     <!-- Related posts -->
-   <!-- <div class="section pb-0">
+    <!-- <div class="section pb-0">
       <h2 class="h3 mb-12 text-center">Related Posts</h2>
       <div class="row justify-center">
         {
