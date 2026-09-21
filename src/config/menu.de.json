@@ -1,5 +1,15 @@
 {
   "main": [
+    { "name": "Home", "url": "/" },
+    {
+      "name": "Über uns",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Wer wir sind", "url": "/about" },
+        { "name": "Was wir schaffen", "url": "/whatwecreate" }
+      ]
+    }
   ],
   "footer": [
     { "name": "Kontakt", "url": "mailto:contact@knotrockit.org" },
