@@ -1,12 +1,12 @@
 [
   {
-    "languageName": "German",
+    "languageName": "DE",
     "languageCode": "de",
     "contentDir": "german",
     "weight": 1
   },
   {
-    "languageName": "English",
+    "languageName": "EN",
     "languageCode": "en",
     "contentDir": "english",
     "weight": 2

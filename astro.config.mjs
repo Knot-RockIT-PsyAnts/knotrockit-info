@@ -40,6 +40,28 @@ function parseFontString(fontStr) {
   return { name: cleanName, weights };
 }
 
+// Local fonts: key = family name (as in theme.json),
+// value = provider and variants (one variant per file/weight)
+const localFonts = {
+  CirceRounded: {
+    provider: fontProviders.local(),
+    options: {
+      variants: [
+        {
+          src: ["./src/assets/fonts/CirceRounded-Light.otf"],
+          weight: 400,
+          style: "normal",
+        },
+        {
+          src: ["./src/assets/fonts/CirceRounded-Medium.otf"],
+          weight: 600,
+          style: "normal",
+        },
+      ],
+    },
+  },
+};
+
 // Build fonts configuration from theme.json
 const fontsConfig = Object.entries(theme.fonts.font_family)
   .filter(([key]) => !key.includes("_type")) // Filter out type entries
@@ -47,6 +69,17 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
     const { name, weights } = parseFontString(fontStr);
     const typeKey = `${key}_type`;
     const fallback = theme.fonts.font_family[typeKey] || "sans-serif";
+
+    if (localFonts[name]) {
+      return {
+        name,
+        cssVariable: `--font-${key}`,
+        weights,
+        ...localFonts[name],
+        display: "swap",
+        fallbacks: [fallback],
+      };
+    }
 
     return {
       name,
