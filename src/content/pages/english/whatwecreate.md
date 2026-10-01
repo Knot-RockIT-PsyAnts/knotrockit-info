@@ -29,7 +29,7 @@ The true purpose of technology - to serve people and improve their lives - is in
 
 ## Solution approach
 
-> Who's to say the Internet won't catch on someday after all?
+> **Who's to say the Internet won't catch on someday after all?**
 
 It is extremely important to actively address these developments and strive for alternative, human-centered solutions. A society that accepts digital technologies without critical reflection risks losing fundamental values such as privacy, self-determination and social justice. To counteract this trend, we need to promote ethical technologies that are geared primarily toward the common good rather than profit.
 
