@@ -7,31 +7,31 @@
 @theme {
   /* === Colors === */
   --color-primary: #0094a6;
-  --color-body: #fff;
+  --color-body: #fafdff;
   --color-border: #eaeaea;
-  --color-light: #f6f6f6;
+  --color-light: #eef3f6;
   --color-dark: #0094a6;
-  --color-text: #444444;
-  --color-text-dark: #040404;
-  --color-text-light: #717171;
+  --color-text: #3f4446;
+  --color-text-dark: #020506;
+  --color-text-light: #6c7173;
 
   /* === Darkmode Colors === */
   --color-darkmode-primary: #0094a6;
-  --color-darkmode-body: #1c1c1c;
+  --color-darkmode-body: #161e21;
   --color-darkmode-border: #3E3E3E;
-  --color-darkmode-light: #222222;
+  --color-darkmode-light: #222a2d;
   --color-darkmode-dark: #fff;
-  --color-darkmode-text: #B4AFB6;
+  --color-darkmode-text: #bec3c6;
   --color-darkmode-text-dark: #fff;
-  --color-darkmode-text-light: #B4AFB6;
+  --color-darkmode-text-light: #bec3c6;
 
   /* === Font Families === */
   --font-primary: CirceRounded, sans-serif;
   --font-secondary: CirceRounded, sans-serif;
 
   /* === Font Sizes === */
-  --text-base: 20px;
-  --text-base-sm: 16px;
+  --text-base: 18px;
+  --text-base-sm: 14.4px;
   --text-h6: 1.2rem;
   --text-h6-sm: 1.08rem;
   --text-h5: 1.44rem;

@@ -31,7 +31,7 @@
 }
 
 .nav-dropdown-list {
-  @apply bg-body dark:bg-darkmode-body z-10 min-w-[180px] rounded p-4 shadow-sm;
+  @apply bg-body dark:bg-darkmode-light z-10 min-w-[200px] rounded p-4 shadow-md;
 }
 
 .nav-dropdown-item {
