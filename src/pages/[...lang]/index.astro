@@ -8,7 +8,7 @@ import CallToAction from "@/partials/CallToAction.astro";
 import Testimonial from "@/partials/Testimonial.astro";
 import type { Feature } from "@/types";
 
-import { FaCheckCircle } from "react-icons/fa";
+import { FaCircleChevronRight } from "react-icons/fa6";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -103,7 +103,7 @@ const call_to_action = await getSinglePage(
               <ul>
                 {feature.bulletpoints.map((bullet: string) => (
                   <li class="relative mb-4 pl-6">
-                    <FaCheckCircle className={"absolute left-0 top-1.5"} />
+                    <FaCircleChevronRight className={"absolute left-0 top-1.5"} />
                     <span set:html={markdownify(bullet)} />
                   </li>
                 ))}
