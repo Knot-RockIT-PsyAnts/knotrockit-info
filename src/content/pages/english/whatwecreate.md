@@ -31,7 +31,7 @@ The true purpose of technology - to serve people and improve their lives - is in
 
 > **"Wer sagt denn, dass [...] sich das Internet nicht eines Tages doch noch etabliert."**
 >
-> -- <cite>Deichkind, "Wer sagt denn das"</cite>
+> -- <cite>Deichkind, Wer sagt denn das</cite>
 
 It is extremely important to actively address these developments and strive for alternative, human-centered solutions. A society that accepts digital technologies without critical reflection risks losing fundamental values such as privacy, self-determination and social justice. To counteract this trend, we need to promote ethical technologies that are geared primarily toward the common good rather than profit.
 

@@ -31,7 +31,7 @@ Der eigentliche Sinn von Technologie, dem Menschen zu dienen und das Leben zu ve
 
 > **"Wer sagt denn, dass [...] sich das Internet nicht eines Tages doch noch etabliert."**
 >
-> -- <cite>Deichkind, "Wer sagt denn das"</cite>
+> -- <cite>Deichkind, Wer sagt denn das</cite>
 
 Es ist von großer Bedeutung, sich diesen Entwicklungen aktiv zu stellen und nach alternativen, menschenzentrierten Lösungen zu streben. Eine Gesellschaft, die digitale Technologien unreflektiert akzeptiert, riskiert den Verlust grundlegender Werte wie Privatsphäre, Selbstbestimmung und sozialer Gerechtigkeit. Um dieser Tendenz entgegenzuwirken, braucht es unter anderem die Förderung ethischer Technologien, die nicht primär auf Gewinn, sondern auf Gemeinwohl ausgerichtet sind.
 
