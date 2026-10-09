@@ -9,6 +9,14 @@
         { "name": "Who we are", "url": "/about" },
         { "name": "What we create", "url": "/whatwecreate" }
       ]
+    },
+    {
+      "name": "Key areas",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Projects", "url": "/categories/projects" }
+      ]
     }
   ],
   "footer": [

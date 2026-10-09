@@ -9,6 +9,14 @@
         { "name": "Wer wir sind", "url": "/about" },
         { "name": "Was wir schaffen", "url": "/whatwecreate" }
       ]
+    },
+    {
+      "name": "Schwerpunkte",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Projekte", "url": "/categories/projects" }
+      ]
     }
   ],
   "footer": [
