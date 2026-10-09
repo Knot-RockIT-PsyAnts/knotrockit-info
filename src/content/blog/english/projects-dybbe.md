@@ -15,7 +15,7 @@ author: ""
 tags: []
 draft: false
 ---
-#### Money is not an end in itself. Money is a means to an end.
+##### Money is not an end in itself. Money is a means to an end.
 
 Dybbe is a tool for redistributing financial resources within groups. Whether large or small, local or spread out, among friends, within families, or in interest groups: We offer a way to pool contributions and redistribute them according to self-determined, transparent rules - regardless of your social background or financial situation.
 
@@ -25,13 +25,13 @@ Dybbe follows a monthly cycle that always involves movement in both directions. 
 
 ![](/images/filler_09.webp)
 
-#### Rule-Based Redistribution
+##### Rule-Based Redistribution
 
 The paid-in money is not managed but is always redistributed. Each group chooses one of our four redistribution models. Based on these rules, the contributions are returned monthly to all participating members - transparently, algorithmically, and without arbitrariness.
 
 ![](/images/filler_07.webp)
 
-#### The Models
+##### The Models
 
 In every model, the rule is: Only those who participate in the current cycle receive a payout.
 
@@ -42,44 +42,44 @@ In every model, the rule is: Only those who participate in the current cycle rec
 
 ![](/images/filler_13.webp)
 
-#### Principles
+##### Principles
 
-##### Strictly Confidential (Anonymity)
+###### Strictly Confidential (Anonymity)
 
 To avoid envy and competition, all contributions remain anonymous. No one sees what others are giving. The only information that is transparent is your own balance and the group’s total after the payout.
 
-##### Self-determination
+###### Self-determination
 
 Participation is voluntary. Each month, you decide anew whether and how much you’ll contribute. There’s no pressure - only your own conviction.
 
 ![](/images/filler_05.webp)
 
-#### Why Dybbe? The Transformative Impact
+##### Why Dybbe? The Transformative Impact
 
-##### From Stagnation to Movement
+###### From Stagnation to Movement
 
 While immense amounts of money lie dormant in accounts, providing no social benefit, Dybbe puts capital into motion with every transaction. Money reaches the people who need it to improve their quality of life.
 
-##### Trust Instead of Envy
+###### Trust Instead of Envy
 
 Thanks to the anonymity of contributions and the objectivity of the algorithms, shame, mistrust, and feelings of injustice disappear. What remains is the pure experience of community and shared responsibility.
 
-##### Data-Driven Improvement
+###### Data-Driven Improvement
 
 As part of Knot RockIT PsyAnts gGmbH, we conduct evidence-based research with Dybbe. Through transparent, anonymized data analysis, we gain insights into group behavior. We continuously optimize our redistribution models for maximum social impact.
 
 ![](/images/filler_16.webp)
 
-#### Technology & Ethics
+##### Technology & Ethics
 
-##### Nonprofit & Independent
+###### Nonprofit & Independent
 
 Dybbe is free and has no commercial interests. The platform is funded exclusively through minimal, transparent rounding differences on payouts. We are independent of venture capital, banks, or advertising revenue.
 
-##### Sustainable & Secure
+###### Sustainable & Secure
 
 Our architecture is sustainable and data-efficient. We follow strict data protection guidelines and the "Privacy Permission Free" principle. This allows us to avoid dependence on mainstream app stores. Dybbe can be installed and used as a Progressive Web App (PWA) directly through the browser on the device. We store the absolute minimum of sensitive financial and user data and rely on modern anonymization techniques. Our data processes are transparent. We disclose what data we process and how it flows.
 
-##### Accessible & Inclusive
+###### Accessible & Inclusive
 
 Our design follows the principles of Ethical Design and Accessible Design. Dybbe is intuitive and avoids complex financial jargon - it’s not rocket science. The app is designed so that everyone can use it, regardless of prior technical knowledge or limitations.

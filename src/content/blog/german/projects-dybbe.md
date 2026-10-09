@@ -15,7 +15,7 @@ author: ""
 tags: []
 draft: false
 ---
-#### Geld ist kein Selbstzweck. Geld ist Funktion.
+##### Geld ist kein Selbstzweck. Geld ist Funktion.
 
 Dybbe ist ein Werkzeug zur Umverteilung von finanziellen Mitteln in Gruppen. Ob groß oder klein, lokal oder verteilt, unter Freunden, in der Familie oder in Interessengruppen: Wir bieten eine Möglichkeit, Beiträge zusammenzutragen und nach selbstbestimmten, transparenten Regeln wieder zu verteilen - unabhängig von deinem sozialen Hintergrund oder deiner finanziellen Situation.
 
@@ -25,13 +25,13 @@ Dybbe folgt einem monatlichen Kreislauf, der immer Bewegung in beide Richtungen 
 
 ![](/images/filler_09.webp)
 
-#### Regelbasierte Umverteilung
+##### Regelbasierte Umverteilung
 
 Das eingezahlte Geld wird nicht verwaltet, sondern immer verteilt. Jede Gruppe wählt eines unserer vier Umverteilungsmodelle. Basierend auf diesen Regeln fließen die Beiträge monatlich an alle einzahlenden Mitglieder zurück - transparent, algorithmisch und ohne Willkür.
 
 ![](/images/filler_07.webp)
 
-#### Die Modelle
+##### Die Modelle
 
 In jedem Modell gilt: Nur wer sich im aktuellen Zyklus beteiligt, erhält eine Auszahlung.
 
@@ -42,44 +42,44 @@ In jedem Modell gilt: Nur wer sich im aktuellen Zyklus beteiligt, erhält eine A
 
 ![](/images/filler_13.webp)
 
-#### Prinzipien
+##### Prinzipien
 
-##### Streng vertraulich (Anonymität)&#x20;
+###### Streng vertraulich (Anonymität)
 
 Um Neid und Wettbewerb zu vermeiden, bleiben alle Beiträge anonym. Niemand sieht, was andere geben. Transparent sind lediglich deine eigene Bilanz und die Gesamtsumme der Gruppe nach der Auszahlung.
 
-##### Selbstbestimmtheit&#x20;
+###### Selbstbestimmtheit
 
 Die Teilnahme ist freiwillig. Du entscheidest monatlich neu, ob und wie viel du einzahlst. Es gibt keinen Druck, nur deine eigene Überzeugung.
 
 ![](/images/filler_05.webp)
 
-#### Warum Dybbe? Die transformative Wirkung
+##### Warum Dybbe? Die transformative Wirkung
 
-##### Von der Stagnation zur Bewegung&#x20;
+###### Von der Stagnation zur Bewegung
 
 Während immense Geldmengen auf Konten liegen und keinen gesellschaftlichen Nutzen entfalten, setzt Dybbe mit jeder Transaktion Kapital in Bewegung. Geld erreicht die Menschen, die es für ihre Lebensqualität brauchen.
 
-##### Vertrauen statt Neid&#x20;
+###### Vertrauen statt Neid
 
 Durch die Anonymität der Beiträge und die Objektivität der Algorithmen verschwinden Scham, Misstrauen und das Gefühl von Ungerechtigkeit. Übrig bleibt das reine Erlebnis von Gemeinschaft und geteilter Verantwortung.
 
-##### Datengetriebene Verbesserung&#x20;
+###### Datengetriebene Verbesserung
 
 Als Teil der Knot RockIT PsyAnts gGmbH betreiben wir mit Dybbe evidenzbasierte Forschung. Durch transparente, anonymisierte Datenanalyse gewinnen wir Erkenntnisse über Gruppenverhalten. Wir optimieren unsere Umverteilungsmodelle kontinuierlich für maximale soziale Wirkung.
 
 ![](/images/filler_16.webp)
 
-#### Technologie & Ethik
+##### Technologie & Ethik
 
-##### Gemeinnützig & Unabhängig&#x20;
+###### Gemeinnützig & Unabhängig
 
 Dybbe ist kostenfrei und verfolgt keine kommerziellen Interessen. Die Plattform finanziert sich ausschließlich durch minimale, transparente Rundungsdifferenzen bei Auszahlungen. Wir sind unabhängig von Risikokapital, Banken oder Werbeeinnahmen.
 
-##### Nachhaltig & Sicher&#x20;
+###### Nachhaltig & Sicher
 
 Unsere Architektur ist nachhaltig und datensparsam. Wir folgen strikten Datenschutzrichtlinien und dem Prinzip "Privacy Permission Free". Hierdurch können wir auch auf die Abhängigkeit von gängigen App-Stores verzichten. Dybbe kann als Progressive Web App (PWA) direkt über den Browser auf dem Gerät installiert und genutzt werden. Wir speichern das absolute Minimum an sensiblen Finanz- und Nutzerdaten und setzen auf moderne Anonymisierung. Unsere Datenprozesse sind transparent. Wir legen offen, welche Daten wir verarbeiten und wie sie fließen.
 
-##### Barrierefrei & Inklusiv&#x20;
+###### Barrierefrei & Inklusiv
 
 Unser Design folgt den Prinzipien des Ethical Design und Accessible Design. Dybbe ist intuitiv und verzichtet auf komplexe Finanzbegriffe - it’s not rocket science. Die Anwendung ist so gestaltet, dass alle Menschen sie nutzen können, unabhängig von technischen Vorkenntnissen oder Einschränkungen.

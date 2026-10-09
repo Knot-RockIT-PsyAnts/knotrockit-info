@@ -7,7 +7,7 @@ draft: false
 ---
 ![](/images/bp_img_overview_problem.png)
 
-## Problemstellung & gesellschaftlicher Bedarf
+##### Problemstellung & gesellschaftlicher Bedarf
 
 In unserer modernen Gesellschaft stehen digitale Dienste zunehmend in der Kritik, da sie tiefgreifende Auswirkungen auf soziale Strukturen, Privatsphäre und wirtschaftliche Entwicklung haben. Die massenhafte Erhebung und Auswertung von Nutzerdaten ermöglicht nicht nur präzise Nutzerprofile, sondern auch eine umfassende Überwachung des individuellen Verhaltens.
 
@@ -27,9 +27,11 @@ Der eigentliche Sinn von Technologie, dem Menschen zu dienen und das Leben zu ve
 
 ![](/images/bp_img_overview_solutions.png)
 
-## Lösungsansatz
+##### Lösungsansatz
 
-> **Wer sagt denn, dass sich das Internet nicht eines Tages doch noch etabliert.**
+> **"Wer sagt denn, dass [...] sich das Internet nicht eines Tages doch noch etabliert."**
+>
+> -- <cite>Deichkind, "Wer sagt denn das"</cite>
 
 Es ist von großer Bedeutung, sich diesen Entwicklungen aktiv zu stellen und nach alternativen, menschenzentrierten Lösungen zu streben. Eine Gesellschaft, die digitale Technologien unreflektiert akzeptiert, riskiert den Verlust grundlegender Werte wie Privatsphäre, Selbstbestimmung und sozialer Gerechtigkeit. Um dieser Tendenz entgegenzuwirken, braucht es unter anderem die Förderung ethischer Technologien, die nicht primär auf Gewinn, sondern auf Gemeinwohl ausgerichtet sind.
 

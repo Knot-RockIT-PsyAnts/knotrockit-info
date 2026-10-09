@@ -7,7 +7,7 @@ draft: false
 ---
 ![](/images/bp_img_overview_problem.png)
 
-## Problem Statement & Social Need
+##### Problem Statement & Social Need
 
 In our modern society, digital services are facing increased criticism because they have significant impacts on social structures, privacy and economic development. The mass collection and analysis of user data not only enable precise user profiling but also comprehensive tracking of individual behavior.
 
@@ -27,9 +27,11 @@ The true purpose of technology - to serve people and improve their lives - is in
 
 ![](/images/bp_img_overview_solutions.png)
 
-## Solution approach
+##### Solution approach
 
-> **Who's to say the Internet won't catch on someday after all?**
+> **"Wer sagt denn, dass [...] sich das Internet nicht eines Tages doch noch etabliert."**
+>
+> -- <cite>Deichkind, "Wer sagt denn das"</cite>
 
 It is extremely important to actively address these developments and strive for alternative, human-centered solutions. A society that accepts digital technologies without critical reflection risks losing fundamental values such as privacy, self-determination and social justice. To counteract this trend, we need to promote ethical technologies that are geared primarily toward the common good rather than profit.
 

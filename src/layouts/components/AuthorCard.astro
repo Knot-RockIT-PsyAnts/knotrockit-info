@@ -27,7 +27,7 @@ const lang = getLangFromUrl(Astro.url);
     >
   </h4>
   <p class="mb-4">
-    {plainify(data.body?.slice(0, 100))}
+    {plainify(data.body, 100)}
   </p>
   <Social source={social} className="social-icons" />
 </div>

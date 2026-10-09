@@ -54,6 +54,10 @@ code {
   @apply after:border-none;
 }
 
+.content blockquote {
+  quotes: none !important;
+}
+
 blockquote > p {
   @apply my-0!;
 }

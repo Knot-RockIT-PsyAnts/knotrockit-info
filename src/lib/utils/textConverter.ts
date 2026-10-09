@@ -32,12 +32,27 @@ export const titleify = (content: string) => {
 };
 
 // plainify
-export const plainify = (content: string) => {
+export const plainify = (content: string, truncateAt?: number) => {
   const parseMarkdown: any = marked.parse(content);
   const filterBrackets = parseMarkdown.replace(/<\/?[^>]+(>|$)/gm, "");
   const filterSpaces = filterBrackets.replace(/[\r\n]\s*[\r\n]/gm, "");
-  const stripHTML = htmlEntityDecoder(filterSpaces);
-  return stripHTML;
+  let stripHTML = htmlEntityDecoder(filterSpaces);
+  if (truncateAt && stripHTML.length > truncateAt) {
+    const window = stripHTML.slice(0, truncateAt);
+    const lastSpaceIndex = window.lastIndexOf(" ");
+    // keep the last word if it ends exactly at the limit
+    const wordComplete =
+      /\s$/.test(window) || stripHTML.charAt(truncateAt) === " ";
+    stripHTML = stripHTML.slice(
+      0,
+      wordComplete
+        ? window.trimEnd().length
+        : lastSpaceIndex > 0
+          ? lastSpaceIndex
+          : truncateAt,
+    );
+  }
+  return stripHTML + '...';
 };
 
 // strip entities for plainify
