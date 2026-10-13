@@ -23,24 +23,43 @@ Dybbe follows a monthly cycle that always involves movement in both directions. 
 
 **No return on investment. But always a gain.**
 
-![](/images/filler_09.webp)
+![Rule-Based Redistribution - Placeholder Image](/images/filler_09.webp)
 
 ##### Rule-Based Redistribution
 
 The paid-in money is not managed but is always redistributed. Each group chooses one of our four redistribution models. Based on these rules, the contributions are returned monthly to all participating members - transparently, algorithmically, and without arbitrariness.
 
-![](/images/filler_07.webp)
+![The Models - Placeholder Image](/images/filler_07.webp)
 
 ##### The Models
 
 In every model, the rule is: Only those who participate in the current cycle receive a payout.
 
-1. **Equal Distribution**: The total amount is divided equally among all contributors. You receive exactly the same amount back as every other person in the group, regardless of your individual contribution amount. The only requirement is that you make a contribution yourself. This model emphasizes the equality of all active members and strengthens the sense of community.
-2. **Proportional Distribution**: Your payout corresponds exactly to your share of the total amount. Those who contribute more receive more in return. Those who contribute less receive less. Contributions and payouts are directly proportional to one another.
-3. **Inverse Proportional Distribution**: This model reverses the flow of money. People with low contributions receive a disproportionately large amount in return. Higher contributions offset this difference. This model promotes active solidarity.
-4. **Need-based distribution**: You set your individual needs using a slider. Distribution is proportional to these specifications. This model combines self-determination with solidarity. It enables dynamic fairness based on trust and open communication within your group.
+###### **Equal Distribution**
 
-![](/images/filler_13.webp)
+![Equal Distribution - Illustration](/images/modelle_equal_1200x300.webp)
+
+The total amount is divided equally among all contributors. You receive exactly the same amount back as every other person in the group, regardless of your individual contribution amount. The only requirement is that you make a contribution yourself. This model emphasizes the equality of all active members and strengthens the sense of community.
+
+###### **Proportional Distribution**
+
+![Proportional Distribution - Illustration](/images/modelle_prop_1200x300.webp)
+
+Your payout corresponds exactly to your share of the total amount. Those who contribute more receive more in return. Those who contribute less receive less. Contributions and payouts are directly proportional to one another.
+
+###### Anti-proportional **Distribution**
+
+![Anti-proportional Distribution - Illustration](/images/modelle_antiprop_1200x300.webp)
+
+This model reverses the flow of money. People with low contributions receive a disproportionately large amount in return. Higher contributions offset this difference. This model promotes active solidarity.
+
+###### **Need-based distribution**
+
+![Need-based distribution - Illustration](/images/modelle_need_1200x300.webp)
+
+You set your individual needs using a slider. Distribution is proportional to these specifications. This model combines self-determination with solidarity. It enables dynamic fairness based on trust and open communication within your group.
+
+![Principles - Placeholder Image](/images/filler_13.webp)
 
 ##### Principles
 
@@ -52,7 +71,7 @@ To avoid envy and competition, all contributions remain anonymous. No one sees w
 
 Participation is voluntary. Each month, you decide anew whether and how much you’ll contribute. There’s no pressure - only your own conviction.
 
-![](/images/filler_05.webp)
+![The Transformative Impact - Placeholder Image](/images/filler_05.webp)
 
 ##### Why Dybbe? The Transformative Impact
 
@@ -68,7 +87,7 @@ Thanks to the anonymity of contributions and the objectivity of the algorithms, 
 
 As part of Knot RockIT PsyAnts gGmbH, we conduct evidence-based research with Dybbe. Through transparent, anonymized data analysis, we gain insights into group behavior. We continuously optimize our redistribution models for maximum social impact.
 
-![](/images/filler_16.webp)
+![Technology & Ethics - Placeholder Image](/images/filler_16.webp)
 
 ##### Technology & Ethics
 
