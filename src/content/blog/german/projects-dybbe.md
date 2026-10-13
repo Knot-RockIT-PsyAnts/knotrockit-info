@@ -23,24 +23,43 @@ Dybbe folgt einem monatlichen Kreislauf, der immer Bewegung in beide Richtungen 
 
 **Keine Rendite. Doch immer ein Gewinn.**
 
-![](/images/filler_09.webp)
+![Regelbasierte Umverteilung - Titelbild](/images/filler_09.webp)
 
 ##### Regelbasierte Umverteilung
 
 Das eingezahlte Geld wird nicht verwaltet, sondern immer verteilt. Jede Gruppe wählt eines unserer vier Umverteilungsmodelle. Basierend auf diesen Regeln fließen die Beiträge monatlich an alle einzahlenden Mitglieder zurück - transparent, algorithmisch und ohne Willkür.
 
-![](/images/filler_07.webp)
+![Die Modelle - Platzhalterbild](/images/filler_07.webp)
 
 ##### Die Modelle
 
 In jedem Modell gilt: Nur wer sich im aktuellen Zyklus beteiligt, erhält eine Auszahlung.
 
-1. **Gleichverteilung**: Die Gesamtsumme teilt sich gleichmäßig auf alle Einzahler:innen auf. Du erhältst exakt denselben Betrag zurück wie jede andere Person in der Gruppe, unabhängig von deiner individuellen Einzahlungshöhe. Voraussetzung ist lediglich ein eigener Beitrag. Dieses Modell betont die Gleichwertigkeit aller aktiven Mitglieder und stärkt das Wir-Gefühl.
-2. **Proportionale Verteilung**: Deine Auszahlung entspricht genau deinem Anteil an der Gesamtsumme. Wer mehr einzahlt, erhält mehr zurück. Wer weniger einzahlt, erhält weniger. Einzahlung und Auszahlung stehen in einem direkten Verhältnis zueinander.
-3. **Antiproportionale Verteilung**: Dieses Modell kehrt den Geldfluss um. Personen mit niedrigen Einzahlungen erhalten überproportional viel zurück. Höhere Einzahlungen gleichen diesen Unterschied aus. Das Modell fördert aktive Solidarität.
-4. **Bedarfsorientierte Verteilung**: Du stellst über einen Regler deinen individuellen Bedarf ein. Die Verteilung erfolgt proportional zu diesen Angaben. Das Modell verbindet Selbstbestimmung mit Solidarität. Es ermöglicht eine dynamische Gerechtigkeit, die auf Vertrauen und offener Kommunikation in deiner Gruppe basiert.
+###### **Gleichverteilung**
 
-![](/images/filler_13.webp)
+![Gleichverteilung - Erklärungsbild](/images/modelle_equal_1200x300.webp)
+
+Die Gesamtsumme teilt sich gleichmäßig auf alle Einzahler:innen auf. Du erhältst exakt denselben Betrag zurück wie jede andere Person in der Gruppe, unabhängig von deiner individuellen Einzahlungshöhe. Voraussetzung ist lediglich ein eigener Beitrag. Dieses Modell betont die Gleichwertigkeit aller aktiven Mitglieder und stärkt das Wir-Gefühl.
+
+###### **Proportionale Verteilung**
+
+![Proportionale Verteilung - Erklärungsbild](/images/modelle_prop_1200x300.webp)
+
+Deine Auszahlung entspricht genau deinem Anteil an der Gesamtsumme. Wer mehr einzahlt, erhält mehr zurück. Wer weniger einzahlt, erhält weniger. Einzahlung und Auszahlung stehen in einem direkten Verhältnis zueinander.
+
+###### **Antiproportionale Verteilung**
+
+![Antiproportionale Verteilung - Erklärungsbild](/images/modelle_antiprop_1200x300.webp)
+
+Dieses Modell kehrt den Geldfluss um. Personen mit niedrigen Einzahlungen erhalten überproportional viel zurück. Höhere Einzahlungen gleichen diesen Unterschied aus. Das Modell fördert aktive Solidarität.
+
+###### **Bedarfsorientierte Verteilung**
+
+![Bedarfsorientierte Verteilung - Erklärungsbild](/images/modelle_need_1200x300.webp)
+
+Du stellst über einen Regler deinen individuellen Bedarf ein. Die Verteilung erfolgt proportional zu diesen Angaben. Das Modell verbindet Selbstbestimmung mit Solidarität. Es ermöglicht eine dynamische Gerechtigkeit, die auf Vertrauen und offener Kommunikation in deiner Gruppe basiert.
+
+![Prinzipien - Platzhalterbild](/images/filler_13.webp)
 
 ##### Prinzipien
 
@@ -52,7 +71,7 @@ Um Neid und Wettbewerb zu vermeiden, bleiben alle Beiträge anonym. Niemand sieh
 
 Die Teilnahme ist freiwillig. Du entscheidest monatlich neu, ob und wie viel du einzahlst. Es gibt keinen Druck, nur deine eigene Überzeugung.
 
-![](/images/filler_05.webp)
+![Die transformative Wirkung - Platzhalterbild](/images/filler_05.webp)
 
 ##### Warum Dybbe? Die transformative Wirkung
 
@@ -68,7 +87,7 @@ Durch die Anonymität der Beiträge und die Objektivität der Algorithmen versch
 
 Als Teil der Knot RockIT PsyAnts gGmbH betreiben wir mit Dybbe evidenzbasierte Forschung. Durch transparente, anonymisierte Datenanalyse gewinnen wir Erkenntnisse über Gruppenverhalten. Wir optimieren unsere Umverteilungsmodelle kontinuierlich für maximale soziale Wirkung.
 
-![](/images/filler_16.webp)
+![Technologie & Ethik - Platzhalterbild](/images/filler_16.webp)
 
 ##### Technologie & Ethik
 
