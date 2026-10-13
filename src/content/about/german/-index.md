@@ -1,26 +1,38 @@
 ---
 title: "Wer wir sind"
 meta_title: "Knot RockIT PsyAnts - Wer wir sind"
-description: "Hinter Knot RockIT PsyAnts stehen Menschen, die Technologie als Werkzeug begreifen, welches bewusst zu einem gesellschaftlichen Wandel beitragen kann. Wir sind eine gemeinnützige GmbH (gGmbH) und richten unser Handeln strikt nach der Abgabenordnung."
+description: "Hinter Knot RockIT PsyAnts stehen Menschen, die Technologie als
+  Werkzeug begreifen, welches bewusst zu einem gesellschaftlichen Wandel
+  beitragen kann. Wir sind eine gemeinnützige GmbH (gGmbH) und richten unser
+  Handeln strikt nach der Abgabenordnung."
 image: ""
 draft: false
 ---
+![Wer wir sind & unser Team - Titelbild](/images/webhead_about_1200x500.webp)
 
 ##### Unser Team
 
 Hinter Knot RockIT PsyAnts stehen Menschen, die Technologie als Werkzeug begreifen, welches bewusst zu einem gesellschaftlichen Wandel beitragen kann. Gegründet von Sebastian Richter und Philipp Höfling, wächst unser Kreis kontinuierlich durch Expert:innen aus Entwicklung, Datenanalyse und Wissenschaftskommunikation. Wir vereinen technische Präzision mit sozialer Verantwortung und arbeiten als Team auf Augenhöhe. Jede Person bringt ihre Stärken ein, um Lösungen zu schaffen.
 
+![Rechtsform & Gemeinwohl - Platzhalterbild](/images/filler_28.webp)
+
 ##### Rechtsform & Gemeinwohl
 
 Wir sind eine gemeinnützige GmbH (gGmbH) und richten unser Handeln strikt nach der Abgabenordnung. Unser Satzungsziel umfasst die Förderung von Wissenschaft, Demokratie, Völkerverständigung und Verbraucherschutz. Wir erfüllen diese Aufgabe, indem wir digitale Infrastrukturen entwickeln, die Datensouveränität gewährleisten und gesellschaftliche Teilhabe ermöglichen. Unsere Finanzierung erfolgt transparent durch Spenden und Fördermittel, sodass wir unabhängig von kommerziellen Interessen bleiben.
+
+![Organisation & Arbeitsweise - Platzhalterbild](/images/filler_24.webp)
 
 ##### Organisation & Arbeitsweise
 
 Wir arbeiten in flachen Hierarchien und treffen Entscheidungen partizipativ. Als dezentrale und papierlose Organisation integrieren wir Nachhaltigkeit in unseren Alltag. Unser physischer Ankerpunkt ist ein Coworking-Space in Frankfurt am Main. Dank der vielfältigen Standorte unseres Coworking-Space-Anbieters und unserer flexiblen Struktur kommen wir jedoch ebenso problemlos an anderen Orten zusammen, sei es für Workshops, Teamtreffen oder konzentrierte Arbeitsphasen. Zusammenhalt und fachlichen Austausch pflegen wir durch regelmäßige, mehrtägige Workshops. Diese Treffen verbinden Vertiefungsworkshops zu Fokusthemen mit Teambuilding und kulturellen Aktivitäten. Sie dienen zugleich dem Networking, um neue Impulse in unsere Arbeit einfließen zu lassen.
 
+![Kooperationsnetzwerk - Platzhalterbild](/images/filler_25.webp)
+
 ##### Kooperationsnetzwerk
 
 Wir vernetzen uns gezielt mit Forschungseinrichtungen, die hohe ethische Standards in der Datenverarbeitung suchen. Unser Angebot richtet sich an Universitäten und Institute, die sensible Umfragedaten oder Probandeninformationen risikofrei auswerten wollen. Wir unterstützen Sie mit erprobten Anonymisierungsprozessen, die wir zeitnah durch externe Zertifizierungen validieren lassen. Diese Standards gewährleisten Rechtssicherheit und schließen eine Re-Identifikation von Teilnehmenden zuverlässig aus. So schaffen wir eine vertrauenswürdige Basis für den sicheren Datenaustausch innerhalb der Wissenschaft. Gleichzeitig öffnen wir unsere Strukturen für zivilgesellschaftliche Initiativen und Technik-Communities, die digitale Souveränität praktisch leben möchten.
+
+![Mitwirken - Platzhalterbild](/images/filler_23.webp)
 
 ##### Mitwirken
 
