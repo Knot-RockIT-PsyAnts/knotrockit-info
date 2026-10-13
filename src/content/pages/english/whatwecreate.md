@@ -1,11 +1,14 @@
 ---
 title: "What we create"
 meta_title: "Knot RockIT PsyAnts - What we create"
-description: "We work on new forms of digital coexistence: platforms that prioritize solidarity over competition, business models that promote sustainability rather than short-term profit, and digital spaces based on transparency, participation and respect for privacy."
+description: "We work on new forms of digital coexistence: platforms that
+  prioritize solidarity over competition, business models that promote
+  sustainability rather than short-term profit, and digital spaces based on
+  transparency, participation and respect for privacy."
 image: ""
 draft: false
 ---
-![](/images/bp_img_overview_problem.png)
+![Problem Statement & Social Need - Featured Image](/images/bp_img_overview_problem.png)
 
 ##### Problem Statement & Social Need
 
@@ -25,13 +28,13 @@ Instead of aligning technologies with people’s actual needs, values and rights
 
 The true purpose of technology - to serve people and improve their lives - is increasingly taking a back seat. This results in technological development that alienates people rather than empowering them.
 
-![](/images/bp_img_overview_solutions.png)
+![Solution approach - Placeholder Image](/images/bp_img_overview_solutions.png)
 
 ##### Solution approach
 
-> **"Wer sagt denn, dass [...] sich das Internet nicht eines Tages doch noch etabliert."**
+> **"Wer sagt denn, dass \[...] sich das Internet nicht eines Tages doch noch etabliert."**
 >
-> -- <cite>Deichkind, Wer sagt denn das</cite>
+> \-- <cite>Deichkind, Wer sagt denn das</cite>
 
 It is extremely important to actively address these developments and strive for alternative, human-centered solutions. A society that accepts digital technologies without critical reflection risks losing fundamental values such as privacy, self-determination and social justice. To counteract this trend, we need to promote ethical technologies that are geared primarily toward the common good rather than profit.
 
