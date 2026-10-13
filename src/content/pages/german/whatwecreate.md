@@ -1,11 +1,15 @@
 ---
 title: "Was wir schaffen"
 meta_title: "Knot RockIT PsyAnts - Was wir schaffen"
-description: "Wir arbeiten an neuen Formen des digitalen Zusammenlebens: Plattformen, die auf Solidarität statt auf Konkurrenz setzen, Geschäftsmodelle, die Nachhaltigkeit statt kurzfristigen Profit fördern und digitale Räume, die auf Transparenz, Teilhabe und Respekt vor der Privatsphäre beruhen."
+description: "Wir arbeiten an neuen Formen des digitalen Zusammenlebens:
+  Plattformen, die auf Solidarität statt auf Konkurrenz setzen,
+  Geschäftsmodelle, die Nachhaltigkeit statt kurzfristigen Profit fördern und
+  digitale Räume, die auf Transparenz, Teilhabe und Respekt vor der Privatsphäre
+  beruhen."
 image: ""
 draft: false
 ---
-![](/images/bp_img_overview_problem.png)
+![Problemstellung & gesellschaftlicher Bedarf - Titelbild](/images/bp_img_overview_problem.png)
 
 ##### Problemstellung & gesellschaftlicher Bedarf
 
@@ -25,13 +29,13 @@ Anstatt Technologien auf die tatsächlichen Bedürfnisse, Werte und Rechte der M
 
 Der eigentliche Sinn von Technologie, dem Menschen zu dienen und das Leben zu verbessern, tritt zunehmend in den Hintergrund. Dadurch entsteht eine technologische Entwicklung, die sich vom Menschen entfremdet, anstatt ihn zu stärken.
 
-![](/images/bp_img_overview_solutions.png)
+![Lösungsansatz - Platzhalterbild](/images/bp_img_overview_solutions.png)
 
 ##### Lösungsansatz
 
-> **"Wer sagt denn, dass [...] sich das Internet nicht eines Tages doch noch etabliert."**
+> **"Wer sagt denn, dass \[...] sich das Internet nicht eines Tages doch noch etabliert."**
 >
-> -- <cite>Deichkind, Wer sagt denn das</cite>
+> \-- <cite>Deichkind, Wer sagt denn das</cite>
 
 Es ist von großer Bedeutung, sich diesen Entwicklungen aktiv zu stellen und nach alternativen, menschenzentrierten Lösungen zu streben. Eine Gesellschaft, die digitale Technologien unreflektiert akzeptiert, riskiert den Verlust grundlegender Werte wie Privatsphäre, Selbstbestimmung und sozialer Gerechtigkeit. Um dieser Tendenz entgegenzuwirken, braucht es unter anderem die Förderung ethischer Technologien, die nicht primär auf Gewinn, sondern auf Gemeinwohl ausgerichtet sind.
 
