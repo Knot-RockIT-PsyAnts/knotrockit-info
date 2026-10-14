@@ -1,6 +1,5 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
     {
       "name": "Über uns",
       "url": "",
@@ -10,14 +9,7 @@
         { "name": "Was wir schaffen", "url": "/whatwecreate" }
       ]
     },
-    {
-      "name": "Schwerpunkte",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        { "name": "Projekte", "url": "/categories/projects" }
-      ]
-    }
+    { "name": "Projekte", "url": "/categories/projects" }
   ],
   "footer": [
     { "name": "Kontakt", "url": "mailto:contact@knotrockit.org" },
