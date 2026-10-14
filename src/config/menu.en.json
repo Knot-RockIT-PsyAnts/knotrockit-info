@@ -9,7 +9,8 @@
         { "name": "What we create", "url": "/whatwecreate" }
       ]
     },
-    { "name": "Projects", "url": "/categories/projects" }
+    { "name": "Projects", "url": "/categories/projects" },
+    { "name": "Principles", "url": "/categories/principles" }
   ],
   "footer": [
     { "name": "Contact", "url": "mailto:contact@knotrockit.org" },
