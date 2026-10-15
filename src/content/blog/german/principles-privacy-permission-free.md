@@ -4,8 +4,8 @@ meta_title: "Knot RockIT PsyAnts - Privacy Permission Free"
 description: "Privacy Permission Free ist ein Kennzeichen für Anwendungen, die
   keinerlei Zugriff auf deine persönlichen Daten verlangen. Die Anwendung
   funktioniert vollständig, ohne dass du ihr eine einzige Berechtigung erteilen
-  musst. Das Label richtet sich an dich als Nutzer:in, die den eigenen digitalen
-  Raum selbst bestimmen möchte."
+  musst. Das Label richtet sich an dich als nutzende Person, die den eigenen
+  digitalen Raum selbst bestimmen möchte."
 date: 2026-10-14T18:00:00.000Z
 image: "/images/webhead_ppf_1200x500.webp"
 categories:
@@ -18,7 +18,7 @@ draft: false
 
 Privacy Permission Free ist ein Kennzeichen für Anwendungen, die keinerlei Zugriff auf deine persönlichen Daten verlangen. Kein Standort, keine Kontakte, kein Mikrofon, keine Kamera, keine Dateien, keine Geräte-Identifikatoren. Die Anwendung funktioniert vollständig, ohne dass du ihr eine einzige Berechtigung erteilen musst.
 
-Das Label richtet sich an dich als Nutzer:in, die den eigenen digitalen Raum selbst bestimmen möchte. Es hilft dir, Anwendungen auf einen Blick zu erkennen, die deine Privatsphäre von Grund auf respektieren.
+Das Label richtet sich an dich als nutzende Person, die den eigenen digitalen Raum selbst bestimmen möchte. Es hilft dir, Anwendungen auf einen Blick zu erkennen, welche deine Privatsphäre von Grund auf respektieren.
 
 ![Warum ein Label notwendig ist - Platzhalterbild](/images/filler_14.webp)
 
@@ -30,9 +30,9 @@ Privacy Permission Free macht diesen Unterschied sichtbar. Das Label gibt dir ei
 
 ![Was „kein Zugriff" konkret heißt - Platzhalterbild](/images/filler_11.webp)
 
-##### Was „kein Zugriff" konkret heißt
+##### Was "kein Zugriff" konkret heißt
 
-Kein Zugriff bedeutet: Die Anwendung fragt keine Berechtigung an, sie erhält keine Berechtigung, und sie nutzt keine Daten im Hintergrund. Das gilt auch für Drittanbieter-Bibliotheken, die in die Anwendung eingebunden sind. Kein Tracking-Dienst, keine Analyse-Plattform, kein Cloud-Dienst, der dein Verhalten auswertet.
+Kein Zugriff bedeutet: Die Anwendung fragt keine Berechtigung an, sie erhält keine Berechtigung und sie nutzt keine Daten im Hintergrund. Das gilt auch für Drittanbieter-Bibliotheken, die in die Anwendung eingebunden sind. Kein Tracking-Dienst, keine Analyse-Plattform, kein Cloud-Dienst, der dein Verhalten auswertet.
 
 Konkret schließt das folgende Datenkategorien aus: Standortdaten über GPS, WLAN oder IP-Adresse. Kontakte und Telefonbuch. Kamera und Mikrofon. Speicher und Dateien. Biometrische Daten wie Fingerabdruck oder Gesichtserkennung. Geräte-Identifikatoren wie IMEI, MAC-Adresse oder Advertising-ID. Sensordaten, die Rückschlüsse auf dich zulassen.
 
@@ -46,7 +46,7 @@ Privacy Permission Free kennt keine Abstufungen. Eine Anwendung erfüllt das Kri
 
 Der Grund liegt in der technischen Realität: Entweder eine Anwendung kann auf deinen Standort zugreifen oder sie kann es nicht. Entweder ein Dienst sammelt Daten über dich oder er tut es nicht. Dazwischen liegt kein gleitender Übergang. Ein "bisschen Zugriff" bleibt ein Zugriff.
 
-Diese Klarheit schützt dich vor Missverständnissen. Du kannst dem Label vertrauen, weil es keine Interpretationsspielräume lässt.
+Diese Klarheit schützt dich vor Missverständnissen. Du kannst dem Label vertrauen, weil es keine Interpretationsspielräume zulässt.
 
 ![Privacy by Design - Platzhalterbild](/images/filler_06.webp)
 
@@ -64,7 +64,7 @@ Eine Anwendung, die Privacy by Design in ihrer Architektur verankert hat, brauch
 
 Die Vergabe des Labels erfolgt nicht allein auf Grundlage einer Selbstauskunft. Wir prüfen Anwendungen mit automatisierten Analysewerkzeugen, die den Quellcode und die eingebundenen Bibliotheken untersuchen. Ergänzend prüfen wir die Berechtigungsmanifeste und die Netzwerkaktivität der Anwendung.
 
-Unabhängige Audits bestätigen die Prüfung in regelmäßigen Abständen. So stellen wir sicher, dass das Label auch nach Aktualisierungen einer Anwendung seine Gültigkeit behält.
+Unabhängige Audits bestätigen die Prüfung in regelmäßigen Abständen. So stellen wir sicher, dass das Label auch nach Aktualisierung einer Anwendung seine Gültigkeit behält.
 
 ![Was das Label für dich bedeutet - Platzhalterbild](/images/filler_13.webp)
 
