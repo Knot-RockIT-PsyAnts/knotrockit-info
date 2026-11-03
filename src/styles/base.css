@@ -1,9 +1,9 @@
 html {
-  @apply text-base-sm md:text-base;
+  @apply bg-body text-base-sm md:text-base dark:bg-darkmode-body;
 }
 
 body {
-  @apply bg-body text-base dark:bg-darkmode-body font-primary font-normal leading-relaxed text-text dark:text-darkmode-text;
+  @apply mx-1 md:mx-2 bg-body text-base dark:bg-darkmode-body font-primary font-normal leading-relaxed text-text dark:text-darkmode-text;
 }
 
 h1,
