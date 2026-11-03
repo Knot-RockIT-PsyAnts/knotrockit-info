@@ -112,6 +112,7 @@ export default defineConfig({
         "@/shortcodes/Youtube",
         "@/shortcodes/Tabs",
         "@/shortcodes/Tab",
+        "@/shortcodes/ImageText",
       ],
     }),
     mdx(),
