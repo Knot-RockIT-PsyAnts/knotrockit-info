@@ -4,6 +4,7 @@ meta_title: "Knot RockIT PsyAnts - RDDA"
 description: "Research Data Distribution & Anonymisation Platform. The European
   infrastructure for trustworthy, ethical and interconnected research. Automated
   anonymisation, sovereign data combination, non-profit open science."
+teaser: "RDDA is the European infrastructure for trustworthy, ethical and interconnected research. It covers the entire lifecycle of research data - from secure collection and automated anonymisation to citable publication with a DOI."
 date: 2026-10-14T07:00:00.000Z
 image: "/images/webhead_rdda_1200x500.webp"
 categories:

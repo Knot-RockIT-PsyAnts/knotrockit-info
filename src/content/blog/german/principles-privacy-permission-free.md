@@ -6,6 +6,7 @@ description: "Privacy Permission Free ist ein Kennzeichen für Anwendungen, die
   funktioniert vollständig, ohne dass du ihr eine einzige Berechtigung erteilen
   musst. Das Label richtet sich an dich als nutzende Person, die den eigenen
   digitalen Raum selbst bestimmen möchte."
+teaser: "Privacy Permission Free ist ein Kennzeichen für Anwendungen, die keinerlei Zugriff auf deine persönlichen Daten verlangen. So erkennst du auf einen Blick Anwendungen, die deine Privatsphäre von Grund auf respektieren."
 date: 2026-10-14T18:00:00.000Z
 image: "/images/webhead_ppf_1200x500.webp"
 categories:

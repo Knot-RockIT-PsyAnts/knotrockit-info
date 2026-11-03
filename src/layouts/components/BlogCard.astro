@@ -14,7 +14,7 @@ import ImageMod from "./ImageMod.astro";
 const { summary_length }: { summary_length: number; blog_folder: string } =
   config.settings;
 const { data } = Astro.props;
-const { title, image, date, author, categories } = data.data;
+const { title, image, date, author, categories, teaser } = data.data;
 
 const lang = getLangFromUrl(Astro.url);
 const { read_more } = await getTranslations(lang);
@@ -66,7 +66,9 @@ data.id = modifiedSlug;
     </li>
     {date && <li class="inline-block">{dateFormat(date)}</li>}
   </ul>-->
-  <p class="mb-6">{plainify(data.body, Number(summary_length))}</p>
+  <p class="mb-6">
+    {teaser ? teaser : plainify(data.body, Number(summary_length))}
+  </p>
   <a
     class="btn btn-outline-primary btn-sm"
     href={slugSelector(`/${data.id}`, lang)}

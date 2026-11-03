@@ -5,6 +5,7 @@ description: "Research Data Distribution & Anonymisation Platform. Die
   europäische Infrastruktur für vertrauenswürdige, ethische und vernetzte
   Forschung. Automatisierte Anonymisierung, souveräne Datenkombinatorik,
   gemeinnützige Open Science."
+teaser: "RDDA ist die europäische Infrastruktur für vertrauenswürdige, ethische und vernetzte Forschung. Sie begleitet den gesamten Lebenszyklus von Forschungsdaten - von der sicheren Erhebung über die automatisierte Anonymisierung bis zur zitierbaren Veröffentlichung mit DOI."
 date: 2026-10-14T07:00:00.000Z
 image: "/images/webhead_rdda_1200x500.webp"
 categories:

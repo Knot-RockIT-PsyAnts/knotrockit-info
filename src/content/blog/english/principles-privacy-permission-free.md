@@ -5,6 +5,7 @@ description: "Privacy Permission Free is a label for applications that do not
   require any access to your personal data. The application works completely
   without requiring you to grant a single permission. The label is intended for
   you as a user who wants to take control of your own digital space."
+teaser: "Privacy Permission Free is a label for applications that require no access to your personal data - no location, no contacts, no camera, no microphone etc. It helps you instantly spot applications that respect your privacy from the very beginning."
 date: 2026-10-14T18:00:00.000Z
 image: "/images/webhead_ppf_1200x500.webp"
 categories:

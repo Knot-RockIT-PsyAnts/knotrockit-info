@@ -7,7 +7,8 @@ description: "Geld ist kein Selbstzweck. Geld ist Funktion.
   Ob groß oder klein, lokal oder verteilt, unter Freunden, in der Familie oder
   in Interessengruppen. Wir bieten eine Möglichkeit, Beiträge zusammenzutragen
   und nach selbstbestimmten, transparenten Regeln wieder zu verteilen."
-date: 2026-10-09T12:00:00.000Z
+teaser: "Dybbe verteilt finanzielle Mittel innerhalb von Gruppen neu: Beiträge werden gesammelt und monatlich nach selbstbestimmten, transparenten Regeln wieder ausgezahlt - anonym, ohne Rendite, aber mit Gewinn für die Gemeinschaft."
+date: 2026-10-16T12:00:00.000Z
 image: "/images/webhead_dybbe_1200x500.webp"
 categories:
   - Projects
