@@ -19,7 +19,7 @@ Research data is a shared resource. It is built on the trust of people who parti
 
 ##### What RDDA does
 
-RDDA is a platform that supports the entire lifecycle of research data: from secure collection through automated anonymisation to citable publication. You don’t need specialised expertise in data protection technology to share your data responsibly. The platform guides you through every step and documents every decision in a transparent manner.
+RDDA (Research Data Distribution & Anonymisation) is a platform that supports the entire lifecycle of research data: from secure collection through automated anonymisation to citable publication. You don’t need specialised expertise in data protection technology to share your data responsibly. The platform guides you through every step and documents every decision in a transparent manner.
 
 We remove direct identifiers before data leaves our secure zone. We apply mathematically verified methods, such as k-anonymity, L-diversity, T-closeness and differential privacy, and support the process with a consulting layer that helps you visualise the balance between security and data quality.
 

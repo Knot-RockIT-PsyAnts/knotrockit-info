@@ -20,7 +20,7 @@ Forschungsdaten sind ein gemeinsames Gut. Sie entstehen aus dem Vertrauen von Me
 
 ##### Was RDDA leistet
 
-RDDA ist eine Plattform, die den gesamten Lebenszyklus von Forschungsdaten begleitet: von der sicheren Erhebung über die automatisierte Anonymisierung bis zur zitierbaren Veröffentlichung. Du brauchst keine eigene Expertise in Datenschutztechnik, um Deine Daten verantwortungsvoll zu teilen. Die Plattform führt Dich durch jeden Schritt und dokumentiert jede Entscheidung nachvollziehbar.
+RDDA (Research Data Distribution & Anonymisation) ist eine Plattform, die den gesamten Lebenszyklus von Forschungsdaten begleitet: von der sicheren Erhebung über die automatisierte Anonymisierung bis zur zitierbaren Veröffentlichung. Du brauchst keine eigene Expertise in Datenschutztechnik, um Deine Daten verantwortungsvoll zu teilen. Die Plattform führt Dich durch jeden Schritt und dokumentiert jede Entscheidung nachvollziehbar.
 
 Wir entfernen direkte Identifikatoren, bevor Daten unsere sichere Zone verlassen. Wir wenden mathematisch geprüfte Verfahren an, wie k-Anonymität, L-Diversität, T-Closeness und Differentielle Privatsphäre, und begleiten den Prozess mit einer Beratungsschicht, die Dir den Abgleich zwischen Sicherheit und Datenqualität sichtbar macht.
 

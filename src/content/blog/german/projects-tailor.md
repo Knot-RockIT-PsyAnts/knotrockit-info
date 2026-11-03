@@ -1,10 +1,7 @@
 ---
 title: TAILor
 meta_title: "Knot RockIT PsyAnts - TAILor"
-description: "TAILor ist ein Kommandozeilenwerkzeug, das den TAIL-Standard in
-  deine Bilddateien schreibt. Es vereint zwei Dinge in einem Schritt: ein
-  sichtbares TAIL-Label auf dem Bild und die maschinenlesbaren
-  Herkunftsinformationen in der Datei."
+description: "TAILor schreibt das TAIL-Label in einem Schritt sichtbar auf dein Bild und maschinenlesbar in die Datei - direkt per Rechtsklick im Kontextmenü, ohne zusätzliches Fenster. So erfüllst du die Kennzeichnungspflicht des EU AI Act (Artikel 50) differenziert in fünf Stufen."
 date: 2026-10-01T07:00:00.000Z
 image: "/images/webhead_tailor_1200x500.webp"
 categories:
@@ -12,10 +9,7 @@ categories:
 author: ""
 tags: []
 draft: false
-teaser: "TAILor ist ein Kommandozeilenwerkzeug, das den TAIL-Standard in deine
-  Bilddateien schreibt. Es vereint zwei Dinge in einem Schritt: ein sichtbares
-  TAIL-Label auf dem Bild und die maschinenlesbaren Herkunftsinformationen in
-  der Datei."
+teaser: "TAILor schreibt das TAIL-Label in einem Schritt sichtbar auf dein Bild und maschinenlesbar in die Datei - direkt per Rechtsklick im Kontextmenü, ohne zusätzliches Fenster. So erfüllst du die Kennzeichnungspflicht des EU AI Act (Artikel 50) differenziert in fünf Stufen."
 ---
 ##### Das Werkzeug hinter dem Label
 
