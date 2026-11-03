@@ -31,10 +31,15 @@ features:
         Wissen schaffen, nicht Profite.*"
       - "**Umwelt als gemeinsame Aufgabe** - gamifiziert, sichtbar, mitwirkend.
         *Jeder kann etwas bewegen, von zu Hause aus.*"
-    button:
-      enable: true
-      label: Mehr hierzu
-      link: /whatwecreate
+    buttons:
+      - enable: true
+        label: "Mehr hierzu"
+        link: "/whatwecreate"
+        variant: "primary"
+      - enable: true
+        label: "Unsere Projekte"
+        link: "/categories/projects"
+        variant: "primary"
   - title: Ethical Design
     image: /images/Knot_RockIT_PsyAnts_Ethical_Design.png
     content: Technologie, die vertraut - *weil sie fair, transparent und schützend ist.*
@@ -49,10 +54,11 @@ features:
         du informiert entscheidest."
       - "**Kooperation & Gemeinschaft**: Wir bauen Brücken zwischen Forschung,
         Praxis und Nutzern, für gemeinsame Lösungen."
-    button:
-      enable: false
-      label: Mehr hierzu
-      link: /valuesandvision
+    buttons:
+      - enable: true
+        label: "Prinzipien"
+        link: "/categories/principles"
+        variant: "primary"
   - title: Accessible Design
     image: /images/Knot_RockIT_PsyAnts_Accessible_Design.png
     content: "*Technologie, die für alle da ist, unabhängig von Fähigkeiten,
@@ -66,10 +72,7 @@ features:
         gesellschaftlichen Mehrwert."
       - "**Gesellschaftliche Verantwortung**: Wir tragen Verantwortung, für
         Gerechtigkeit und Teilhabe."
-    button:
-      enable: false
-      label: ""
-      link: ""
+    buttons: []
   - title: Sustainable Design
     image: /images/Knot_RockIT_PsyAnts_Sustainable_Design.png
     content: "*Technologie, die Zukunft schafft, nicht verbraucht.*"
@@ -84,9 +87,6 @@ features:
         ethische und nachhaltige Lösungen zu schaffen."
       - "**Unabhängigkeit & Autonomie**: Wir sind finanziell unabhängig und
         geben dir maximale Kontrolle über deine Daten und deine Teilhabe."
-    button:
-      enable: false
-      label: ""
-      link: ""
+    buttons: []
 ---
 ​

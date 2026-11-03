@@ -1,7 +1,7 @@
 
 
 export type Feature = {
-  button: button;
+  buttons: Button[];
   image: string;
   bulletpoints: string[];
   content: string;
@@ -12,4 +12,5 @@ export type Button = {
   enable: boolean;
   label: string;
   link: string;
+  variant: "primary" | "outline-primary";
 };

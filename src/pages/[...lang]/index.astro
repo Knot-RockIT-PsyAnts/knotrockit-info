@@ -2,7 +2,11 @@
 import ImageMod from "@/components/ImageMod.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
-import { supportedLang } from "@/lib/utils/languageParser";
+import {
+  getLangFromUrl,
+  slugSelector,
+  supportedLang,
+} from "@/lib/utils/languageParser";
 import { markdownify } from "@/lib/utils/textConverter";
 import CallToAction from "@/partials/CallToAction.astro";
 import Testimonial from "@/partials/Testimonial.astro";
@@ -18,6 +22,12 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
+const currentLang = getLangFromUrl(Astro.url);
+
+const buttonVariants: Record<string, string> = {
+  primary: "btn btn-primary",
+  "outline-primary": "btn btn-outline-primary",
+};
 const homepage = await getListPage("homepage", lang);
 const { banner, features } = homepage[0].data;
 
@@ -108,10 +118,25 @@ const call_to_action = await getSinglePage(
                   </li>
                 ))}
               </ul>
-              {feature.button.enable && (
-                <a class="btn btn-primary mt-5" href={feature.button.link}>
-                  {feature.button.label}
-                </a>
+              {feature.buttons.some((button) => button.enable) && (
+                <div class="mt-5 flex flex-wrap gap-4">
+                  {feature.buttons
+                    .filter((button) => button.enable)
+                    .map((button) => (
+                      <a
+                        class={
+                          buttonVariants[button.variant] ?? buttonVariants.primary
+                        }
+                        href={slugSelector(button.link, currentLang)}
+                        target={
+                          button.link.startsWith("http") ? "_blank" : "_self"
+                        }
+                        rel="noopener"
+                      >
+                        {button.label}
+                      </a>
+                    ))}
+                </div>
               )}
             </div>
           </div>

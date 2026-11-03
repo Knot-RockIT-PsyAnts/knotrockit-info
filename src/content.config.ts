@@ -74,6 +74,14 @@ const contactCollection = defineCollection({
   }),
 });
 
+// Button schema (shared by banner and feature buttons)
+const buttonSchema = z.object({
+  enable: z.boolean(),
+  label: z.string(),
+  link: z.string(),
+  variant: z.enum(["primary", "outline-primary"]).default("primary"),
+});
+
 // Homepage collection schema
 const homepageCollection = defineCollection({
   loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/homepage" }),
@@ -82,11 +90,7 @@ const homepageCollection = defineCollection({
       title: z.string(),
       content: z.string(),
       image: z.string(),
-      button: z.object({
-        enable: z.boolean(),
-        label: z.string(),
-        link: z.string(),
-      }),
+      button: buttonSchema,
     }),
     features: z.array(
       z.object({
@@ -94,11 +98,7 @@ const homepageCollection = defineCollection({
         image: z.string(),
         content: z.string(),
         bulletpoints: z.array(z.string()),
-        button: z.object({
-          enable: z.boolean(),
-          label: z.string(),
-          link: z.string(),
-        }),
+        buttons: z.array(buttonSchema),
       }),
     ),
   }),

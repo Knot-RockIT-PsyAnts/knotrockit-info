@@ -30,10 +30,15 @@ features:
         that creates knowledge, not profits.*"
       - "**The environment as a shared responsibility** - gamified, visible,
         participatory. *Everyone can make a difference, from home.*"
-    button:
-      enable: true
-      label: Read more
-      link: /whatwecreate
+    buttons:
+      - enable: true
+        label: "Read more"
+        link: "/whatwecreate"
+        variant: "primary"
+      - enable: true
+        label: "Our projects"
+        link: "/categories/projects"
+        variant: "primary"
   - title: Ethical Design
     image: /images/Knot_RockIT_PsyAnts_Ethical_Design.png
     content: Technology you can trust - *because it is fair, transparent, and
@@ -49,10 +54,11 @@ features:
         informed decisions."
       - "**Cooperation & community**: We build bridges between research,
         practice, and users, for shared solutions."
-    button:
-      enable: false
-      label: Read more
-      link: /valuesandvision
+    buttons:
+      - enable: true
+        label: "Principles"
+        link: "/categories/principles"
+        variant: "primary"
   - title: Accessible Design
     image: /images/Knot_RockIT_PsyAnts_Accessible_Design.png
     content: "*Technology that is for everyone - regardless of abilities,
@@ -66,10 +72,7 @@ features:
         value."
       - "**Social responsibility**: We take responsibility, for fairness and
         participation."
-    button:
-      enable: false
-      label: ""
-      link: ""
+    buttons: []
   - title: Sustainable Design
     image: /images/Knot_RockIT_PsyAnts_Sustainable_Design.png
     content: "*Technology that creates a future, rather than consuming it.*"
@@ -84,9 +87,6 @@ features:
         ethical and sustainable solutions."
       - "**Independence & autonomy**: We are financially independent and give
         you maximum control over your data and your participation."
-    button:
-      enable: false
-      label: ""
-      link: ""
+    buttons: []
 ---
 ​
