@@ -28,13 +28,13 @@ We remove direct identifiers before data leaves our secure zone. We apply mathem
 
 Data sharing is a scientific achievement. That’s why every published dataset on RDDA receives a DOI. It thus becomes an independent, citable publication that can be referenced just as precisely as a scholarly article. Your work gains visibility without requiring any additional effort on your part.
 
-In the searchable catalog, you’ll find anonymised datasets with complete metadata. You can combine existing projects, derive new research questions from them and trace the entire provenance chain of each data instance. Every combination passes through the anonymisation process again.
+In the searchable catalogue, you’ll find anonymised datasets with complete metadata. You can combine existing projects, derive new research questions from them and trace the entire provenance chain of each data instance. Every combination passes through the anonymisation process again.
 
 ![Security without any detours - placeholder image](/images/filler_21.webp)
 
 ##### For you as a researcher: Security without any detours
 
-We’ve built RDDA so you can focus on your research. The platform accepts data directly from popular survey tools like LimeSurvey or SoSci Survey. There’s no intermediate step. An interactive wizard guides you through configuration, data matching and anonymization. At any time, you can see which options offer the best balance between data security and information content.
+We’ve built RDDA so you can focus on your research. The platform accepts data directly from popular survey tools like LimeSurvey or SoSci Survey. There’s no intermediate step. An interactive wizard guides you through configuration, data matching and anonymisation. At any time, you can see which options offer the best balance between data security and information content.
 
 Once published, the dataset is immutable. The raw data is permanently deleted after the retention period expires. Only if you have a scientific reason for longer-term storage is it preserved as a living dataset.
 

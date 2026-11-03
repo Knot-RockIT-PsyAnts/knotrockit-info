@@ -29,9 +29,9 @@ This is part of our “Privacy Permission Free” ethical standard - we do not r
 
 **AI-Generated Content & Transparency**
 
-Some visual content on this website was created with the help of AI tools. To ensure transparency, we use the **TAIL (Transparent AI Label)** labeling system.
+Some visual content on this website was created with the help of AI tools. To ensure transparency, we use the **TAIL (Transparent AI Label)** labelling system.
 
-**TAIL** categorizes the degree of AI involvement in an image into three levels:
+**TAIL** categorises the degree of AI involvement in an image into three levels:
 
 - **Level 1 (AI as Inspiration):** AI was used only for brainstorming, the final result was created entirely by humans.
 - **Level 2 (AI-Generated, Creatively Revised):** AI generated the basic structure, we reviewed, adapted, and revised it.

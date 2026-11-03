@@ -3,10 +3,10 @@
 banner:
   title: Digital innovation for a fairer, sustainable society
   content: We are Knot RockIT PsyAnts. We develop ethically grounded,
-    human-centered digital solutions for the major challenges of our time. In
+    human-centred digital solutions for the major challenges of our time. In
     dialogue with the scientific community, we create foundations for a digital
     future that is open to everyone - transparent, inclusive, and oriented
-    toward the common good.
+    towards the common good.
   image: /images/Knot_RockIT_PsyAnts_Icon.svg
   button:
     enable: false
@@ -18,7 +18,7 @@ features:
   - title: What we create
     image: /images/Knot_RockIT_PsyAnts_What_we_do.png
     content: We build **digital systems that strengthen human connections - rather
-      than monetizing them.**
+      than monetising them.**
     bulletpoints:
       - "**Money as a means of solidarity** - not as a measure of value. *Decide
         together where it flows - anonymous, fair, continuous.*"
@@ -44,7 +44,7 @@ features:
       - "**Privacy by design**: We store only what’s necessary and protect it
         with state-of-the-art standards."
       - "**Consumer protection**: We actively stand up for your rights, no
-        hidden conditions, no data monetization."
+        hidden conditions, no data monetisation."
       - "**Information & education**: We explain how it works, so you can make
         informed decisions."
       - "**Cooperation & community**: We build bridges between research,
@@ -74,11 +74,11 @@ features:
     image: /images/Knot_RockIT_PsyAnts_Sustainable_Design.png
     content: "*Technology that creates a future, rather than consuming it.*"
     bulletpoints:
-      - "**Sustainability**: We minimize our ecological footprint through
-        energy-efficient systems and data minimization."
+      - "**Sustainability**: We minimise our ecological footprint through
+        energy-efficient systems and data minimisation."
       - "**Energy efficiency**: Our services operate with low consumption and
         use renewable energy."
-      - "**Data minimization**: We collect only what is needed and delete what
+      - "**Data minimisation**: We collect only what is needed and delete what
         becomes unnecessary."
       - "**Research & innovation**: We develop continuously, to create better
         ethical and sustainable solutions."

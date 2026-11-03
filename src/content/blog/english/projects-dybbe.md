@@ -39,7 +39,7 @@ In every model, the rule is: Only those who participate in the current cycle rec
 
 ![Equal Distribution - Illustration](/images/modelle_equal_1200x300.webp)
 
-The total amount is divided equally among all contributors. You receive exactly the same amount back as every other person in the group, regardless of your individual contribution amount. The only requirement is that you make a contribution yourself. This model emphasizes the equality of all active members and strengthens the sense of community.
+The total amount is divided equally among all contributors. You receive exactly the same amount back as every other person in the group, regardless of your individual contribution amount. The only requirement is that you make a contribution yourself. This model emphasises the equality of all active members and strengthens the sense of community.
 
 ###### **Proportional Distribution**
 
@@ -85,19 +85,19 @@ Thanks to the anonymity of contributions and the objectivity of the algorithms, 
 
 ###### Data-Driven Improvement
 
-As part of Knot RockIT PsyAnts gGmbH, we conduct evidence-based research with Dybbe. Through transparent, anonymized data analysis, we gain insights into group behavior. We continuously optimize our redistribution models for maximum social impact.
+As part of Knot RockIT PsyAnts gGmbH, we conduct evidence-based research with Dybbe. Through transparent, anonymised data analysis, we gain insights into group behaviour. We continuously optimise our redistribution models for maximum social impact.
 
 ![Technology & Ethics - Placeholder Image](/images/filler_16.webp)
 
 ##### Technology & Ethics
 
-###### Nonprofit & Independent
+###### Non-profit & Independent
 
 Dybbe is free and has no commercial interests. The platform is funded exclusively through minimal, transparent rounding differences on payouts. We are independent of venture capital, banks, or advertising revenue.
 
 ###### Sustainable & Secure
 
-Our architecture is sustainable and data-efficient. We follow strict data protection guidelines and the "Privacy Permission Free" principle. This allows us to avoid dependence on mainstream app stores. Dybbe can be installed and used as a Progressive Web App (PWA) directly through the browser on the device. We store the absolute minimum of sensitive financial and user data and rely on modern anonymization techniques. Our data processes are transparent. We disclose what data we process and how it flows.
+Our architecture is sustainable and data-efficient. We follow strict data protection guidelines and the "Privacy Permission Free" principle. This allows us to avoid dependence on mainstream app stores. Dybbe can be installed and used as a Progressive Web App (PWA) directly through the browser on the device. We store the absolute minimum of sensitive financial and user data and rely on modern anonymisation techniques. Our data processes are transparent. We disclose what data we process and how it flows.
 
 ###### Accessible & Inclusive
 
