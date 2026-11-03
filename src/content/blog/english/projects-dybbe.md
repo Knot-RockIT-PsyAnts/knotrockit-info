@@ -3,11 +3,8 @@ title: "Dybbe"
 meta_title: "Knot RockIT PsyAnts - Dybbe"
 description: "Money is not an end in itself. Money is a means to an end.
 
-  Dybbe is a tool for redistributing financial resources within groups. Whether
-  large or small, local or spread out, among friends, within families, or in
-  interest groups. We offer a way to pool contributions and redistribute them
-  according to self-determined, transparent rules."
-teaser: "Dybbe redistributes financial resources within groups: contributions are pooled and paid back monthly according to self-determined, transparent rules - anonymously, with no return on investment, but always a gain for the community."
+  Dybbe is a tool for redistributing financial resources within groups. Contributions are pooled and paid back monthly according to self-determined, transparent rules - anonymously, with no return on investment, but always a gain for the community."
+teaser: "Dybbe is a tool for redistributing financial resources within groups. Contributions are pooled and paid back monthly according to self-determined, transparent rules - anonymously, with no return on investment, but always a gain for the community."
 date: 2026-10-16T12:00:00.000Z
 image: "/images/webhead_dybbe_1200x500.webp"
 categories:
