@@ -29,6 +29,14 @@
       "defaultValue": ""
     },
     {
+      "name": "teaser",
+      "label": "Teaser",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
       "name": "date",
       "label": "Date",
       "type": "Date",
