@@ -3,8 +3,14 @@ title: "Dybbe"
 meta_title: "Knot RockIT PsyAnts - Dybbe"
 description: "Geld ist kein Selbstzweck. Geld ist Funktion.
 
-  Dybbe ist ein Werkzeug zur Umverteilung von finanziellen Mitteln in Gruppen. Beiträge werden gesammelt und monatlich nach selbstbestimmten, transparenten Regeln wieder ausgezahlt - anonym, ohne Rendite, aber mit Gewinn für die Gemeinschaft."
-teaser: "Dybbe ist ein Werkzeug zur Umverteilung von finanziellen Mitteln in Gruppen. Beiträge werden gesammelt und monatlich nach selbstbestimmten, transparenten Regeln wieder ausgezahlt - anonym, ohne Rendite, aber mit Gewinn für die Gemeinschaft."
+  Dybbe ist ein Werkzeug zur Umverteilung von finanziellen Mitteln in Gruppen.
+  Beiträge werden gesammelt und monatlich nach selbstbestimmten, transparenten
+  Regeln wieder ausgezahlt - anonym, ohne Rendite, aber mit Gewinn für die
+  Gemeinschaft."
+teaser: "Dybbe ist ein Werkzeug zur Umverteilung von finanziellen Mitteln in
+  Gruppen. Beiträge werden gesammelt und monatlich nach selbstbestimmten,
+  transparenten Regeln wieder ausgezahlt - anonym, ohne Rendite, aber mit Gewinn
+  für die Gemeinschaft."
 date: 2026-10-16T12:00:00.000Z
 image: "/images/webhead_dybbe_1200x500.webp"
 categories:
@@ -17,39 +23,39 @@ draft: false
 
 Dybbe ist ein Werkzeug zur Umverteilung von finanziellen Mitteln in Gruppen. Ob groß oder klein, lokal oder verteilt, unter Freunden, in der Familie oder in Interessengruppen: Wir bieten eine Möglichkeit, Beiträge zusammenzutragen und nach selbstbestimmten, transparenten Regeln wieder zu verteilen - unabhängig von deinem sozialen Hintergrund oder deiner finanziellen Situation.
 
-Dybbe folgt einem monatlichen Kreislauf, der immer Bewegung in beide Richtungen bedeutet. Nur wer einzahlt, nimmt teil. Jede Person, die gibt, erhält etwas zurück. Du gibst deiner Gruppe, du bist Teil deiner Gruppe, die Gruppe gibt dir den angemessenen Anteil zurück. Bei jedem Beitrag fließt ein kleiner Teil in eine globale Welt-Gruppe. Du gibst der Welt, du bist Teil der Welt, die Welt gibt dir zurück. Nur wer lernt, sich als Teil der Welt zu empfinden, wird sie auch als den kostbaren Schatz behandeln, der sie schon immer war.
+Dybbe folgt einem monatlichen Kreislauf, der immer Bewegung in beide Richtungen bedeutet. Nur wer einzahlt, nimmt teil. Jede Person, die gibt, erhält eine Auszahlung nach den Regeln der Gruppe. Du gibst deiner Gruppe, du bist Teil deiner Gruppe, die Gruppe zahlt dir den angemessenen Anteil aus. Bei jedem Beitrag fließt ein kleiner Teil in eine globale Welt-Gruppe. Du gibst der Welt, du bist Teil der Welt, die Welt zahlt dich aus. Nur wer lernt, sich als Teil der Welt zu empfinden, wird sie auch als den kostbaren Schatz behandeln, der sie schon immer war.
 
-**Keine Rendite. Doch immer ein Gewinn.**
+**Keine Rendite. Doch immer ein Gewinn - an Klarheit, Solidarität und Gemeinschaft.**
 
 ![Regelbasierte Umverteilung - Titelbild](/images/filler_09.webp)
 
 ##### Regelbasierte Umverteilung
 
-Das eingezahlte Geld wird nicht verwaltet, sondern immer verteilt. Jede Gruppe wählt eines unserer vier Umverteilungsmodelle. Basierend auf diesen Regeln fließen die Beiträge monatlich an alle einzahlenden Mitglieder zurück - transparent, algorithmisch und ohne Willkür.
+Das eingezahlte Geld wird nicht verwaltet, sondern immer verteilt. Jede Gruppe wählt eines unserer vier Umverteilungsmodelle. Basierend auf diesen Regeln fließen die Beiträge monatlich an alle einzahlenden Mitglieder - transparent, algorithmisch und ohne Willkür.
 
 ![Die Modelle - Platzhalterbild](/images/filler_07.webp)
 
 ##### Die Modelle
 
-In jedem Modell gilt: Nur wer sich im aktuellen Zyklus beteiligt, erhält eine Auszahlung.
+In jedem Modell gilt: Nur wer sich im aktuellen Zyklus beteiligt, kann eine Auszahlung erhalten.
 
 ###### **Gleichverteilung**
 
 ![Gleichverteilung - Erklärungsbild](/images/modelle_equal_1200x300.webp)
 
-Die Gesamtsumme teilt sich gleichmäßig auf alle Einzahler:innen auf. Du erhältst exakt denselben Betrag zurück wie jede andere Person in der Gruppe, unabhängig von deiner individuellen Einzahlungshöhe. Voraussetzung ist lediglich ein eigener Beitrag. Dieses Modell betont die Gleichwertigkeit aller aktiven Mitglieder und stärkt das Wir-Gefühl.
+Die Gesamtsumme teilt sich gleichmäßig auf alle Einzahler:innen auf. Du erhältst exakt denselben Anteil wie jede andere Person in der Gruppe, unabhängig von deiner individuellen Einzahlungshöhe. Voraussetzung ist lediglich ein eigener Beitrag. Dieses Modell betont die Gleichwertigkeit aller aktiven Mitglieder und stärkt das Wir-Gefühl.
 
 ###### **Proportionale Verteilung**
 
 ![Proportionale Verteilung - Erklärungsbild](/images/modelle_prop_1200x300.webp)
 
-Deine Auszahlung entspricht genau deinem Anteil an der Gesamtsumme. Wer mehr einzahlt, erhält mehr zurück. Wer weniger einzahlt, erhält weniger. Einzahlung und Auszahlung stehen in einem direkten Verhältnis zueinander.
+Deine Auszahlung entspricht genau deinem Anteil an der Gesamtsumme. Wer mehr einzahlt, erhält mehr. Wer weniger einzahlt, erhält weniger. Einzahlung und Auszahlung stehen in einem direkten Verhältnis zueinander.
 
 ###### **Antiproportionale Verteilung**
 
 ![Antiproportionale Verteilung - Erklärungsbild](/images/modelle_antiprop_1200x300.webp)
 
-Dieses Modell kehrt den Geldfluss um. Personen mit niedrigen Einzahlungen erhalten überproportional viel zurück. Höhere Einzahlungen gleichen diesen Unterschied aus. Das Modell fördert aktive Solidarität.
+Dieses Modell kehrt den Geldfluss um. Personen mit niedrigen Einzahlungen erhalten überproportional viel. Höhere Einzahlungen gleichen diesen Unterschied aus. Das Modell fördert aktive Solidarität.
 
 ###### **Bedarfsorientierte Verteilung**
 
@@ -91,7 +97,7 @@ Als Teil der Knot RockIT PsyAnts gGmbH betreiben wir mit Dybbe evidenzbasierte F
 
 ###### Gemeinnützig & Unabhängig
 
-Dybbe ist kostenfrei und verfolgt keine kommerziellen Interessen. Die Plattform finanziert sich ausschließlich durch minimale, transparente Rundungsdifferenzen bei Auszahlungen. Wir sind unabhängig von Risikokapital, Banken oder Werbeeinnahmen.
+Dybbe ist kostenfrei und verfolgt keine kommerziellen Interessen. Die Plattform finanziert sich ausschließlich durch minimale, transparente Rundungsdifferenzen und Spenden. Wir sind unabhängig von Risikokapital und Werbung - mimt Bank Partner und Aufsicht.
 
 ###### Nachhaltig & Sicher
 
