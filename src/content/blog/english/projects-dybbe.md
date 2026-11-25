@@ -3,8 +3,14 @@ title: "Dybbe"
 meta_title: "Knot RockIT PsyAnts - Dybbe"
 description: "Money is not an end in itself. Money is a means to an end.
 
-  Dybbe is a tool for redistributing financial resources within groups. Contributions are pooled and paid back monthly according to self-determined, transparent rules - anonymously, with no return on investment, but always a gain for the community."
-teaser: "Dybbe is a tool for redistributing financial resources within groups. Contributions are pooled and paid back monthly according to self-determined, transparent rules - anonymously, with no return on investment, but always a gain for the community."
+  Dybbe is a tool for redistributing financial resources within groups.
+  Contributions are pooled and paid back monthly according to self-determined,
+  transparent rules - anonymously, with no return on investment, but always a
+  gain for the community."
+teaser: "Dybbe is a tool for redistributing financial resources within groups.
+  Contributions are pooled and paid back monthly according to self-determined,
+  transparent rules - anonymously, with no return on investment, but always a
+  gain for the community."
 date: 2026-10-16T12:00:00.000Z
 image: "/images/webhead_dybbe_1200x500.webp"
 categories:
@@ -17,39 +23,39 @@ draft: false
 
 Dybbe is a tool for redistributing financial resources within groups. Whether large or small, local or spread out, among friends, within families, or in interest groups: We offer a way to pool contributions and redistribute them according to self-determined, transparent rules - regardless of your social background or financial situation.
 
-Dybbe follows a monthly cycle that always involves movement in both directions. Only those who contribute can participate. Everyone who gives receives something in return. You give to your group; you are part of your group; the group gives you back your fair share. With every contribution, a small portion flows into a global world group. You give to the world; you are part of the world; the world gives back to you. Only those who learn to see themselves as part of the world will treat it as the precious treasure it has always been.
+Dybbe follows a monthly cycle that always involves movement in both directions. Only those who contribute can participate. Everyone who gives can receive a payout according to the group's rules. You give to your group; you are part of your group; the group pays you your share. With every contribution, a small portion flows into a global world group. You give to the world; you are part of the world; the world pays you its share. Only those who learn to see themselves as part of the world will treat it as the precious treasure it has always been.
 
-**No return on investment. But always a gain.**
+**No return on investment. But always a gain - in clarity, solidarity and community.**
 
 ![Rule-Based Redistribution - Placeholder Image](/images/filler_09.webp)
 
 ##### Rule-Based Redistribution
 
-The paid-in money is not managed but is always redistributed. Each group chooses one of our four redistribution models. Based on these rules, the contributions are returned monthly to all participating members - transparently, algorithmically, and without arbitrariness.
+The paid-in money is not managed but is always redistributed. Each group chooses one of our four redistribution models. Based on these rules, the contributions are paid out monthly to all participating members - transparently, algorithmically, and without arbitrariness.
 
 ![The Models - Placeholder Image](/images/filler_07.webp)
 
 ##### The Models
 
-In every model, the rule is: Only those who participate in the current cycle receive a payout.
+In every model, the rule is: Only those who participate in the current cycle can receive a payout.
 
 ###### **Equal Distribution**
 
 ![Equal Distribution - Illustration](/images/modelle_equal_1200x300.webp)
 
-The total amount is divided equally among all contributors. You receive exactly the same amount back as every other person in the group, regardless of your individual contribution amount. The only requirement is that you make a contribution yourself. This model emphasises the equality of all active members and strengthens the sense of community.
+The total amount is divided equally among all contributors. You receive exactly the same share as every other person in the group, regardless of your individual contribution amount. The only requirement is that you make a contribution yourself. This model emphasises the equality of all active members and strengthens the sense of community.
 
 ###### **Proportional Distribution**
 
 ![Proportional Distribution - Illustration](/images/modelle_prop_1200x300.webp)
 
-Your payout corresponds exactly to your share of the total amount. Those who contribute more receive more in return. Those who contribute less receive less. Contributions and payouts are directly proportional to one another.
+Your payout corresponds exactly to your share of the group pot. Those who contribute more receive more. Those who contribute less receive less. Contributions and payouts are directly proportional to one another.
 
 ###### Anti-proportional **Distribution**
 
 ![Anti-proportional Distribution - Illustration](/images/modelle_antiprop_1200x300.webp)
 
-This model reverses the flow of money. People with low contributions receive a disproportionately large amount in return. Higher contributions offset this difference. This model promotes active solidarity.
+This model reverses the flow of money. People with low contributions receive a disproportionately large amount. Higher contributions offset this difference. This model promotes active solidarity.
 
 ###### **Need-based distribution**
 
@@ -91,7 +97,7 @@ As part of Knot RockIT PsyAnts gGmbH, we conduct evidence-based research with Dy
 
 ###### Non-profit & Independent
 
-Dybbe is free and has no commercial interests. The platform is funded exclusively through minimal, transparent rounding differences on payouts. We are independent of venture capital, banks, or advertising revenue.
+Dybbe is free and has no commercial interests. The platform is funded exclusively through minimal, transparent rounding differences and donations. We are independent of venture capital and advertising - with a banking partner and supervision.
 
 ###### Sustainable & Secure
 
